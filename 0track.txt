@@ -1,0 +1,3988 @@
+Time: 39
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 0 p: 0 lp: 0
+ConnectID: 5 hasMe: 0 p: 0 lp: 0
+ConnectID: 11 hasMe: 0 p: 0 lp: 0
+LastRecv: 15 5 11 
+Time: 39
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 0 p: 0 lp: 0
+ConnectID: 5 hasMe: 0 p: 0 lp: 0
+ConnectID: 11 hasMe: 0 p: 0 lp: 0
+Time: 289
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 1 p: 0 lp: 0
+ConnectID: 5 hasMe: 0 p: 0 lp: 0
+ConnectID: 11 hasMe: 1 p: 0 lp: 0
+LastRecv: 15 5 11 
+Time: 289
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 0 p: 0.05 lp: 0
+ConnectID: 5 hasMe: 0 p: 0 lp: 0
+ConnectID: 11 hasMe: 0 p: 0.05 lp: 0
+Time: 539
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 1 p: 0.05 lp: 0
+ConnectID: 5 hasMe: 0 p: 0 lp: 0
+ConnectID: 11 hasMe: 1 p: 0.05 lp: 0
+LastRecv: 15 11 
+Time: 539
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 0 p: 0.0975 lp: 0
+ConnectID: 5 hasMe: 0 p: 0 lp: 0
+ConnectID: 11 hasMe: 0 p: 0.0975 lp: 0
+Time: 789
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 0 p: 0.0975 lp: 0
+ConnectID: 5 hasMe: 1 p: 0 lp: 53062
+ConnectID: 11 hasMe: 1 p: 0.0975 lp: 0
+LastRecv: 5 11 
+Time: 789
+SelfLP: 53042
+CS
+ConnectID: 15 hasMe: 0 p: 0.092625 lp: 0
+ConnectID: 5 hasMe: 0 p: 0.05 lp: 53062
+ConnectID: 11 hasMe: 0 p: 0.142625 lp: 0
+Time: 1039
+SelfLP: 53042
+CS
+ConnectID: 15 hasMe: 1 p: 0.092625 lp: 0
+ConnectID: 5 hasMe: 1 p: 0.05 lp: 65524
+ConnectID: 11 hasMe: 1 p: 0.142625 lp: 0
+LastRecv: 15 5 11 
+Time: 1039
+SelfLP: 65513.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.137994 lp: 0
+ConnectID: 5 hasMe: 0 p: 0.0975 lp: 65524
+ConnectID: 11 hasMe: 0 p: 0.185494 lp: 0
+Time: 1289
+SelfLP: 65513.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.137994 lp: 0
+ConnectID: 5 hasMe: 1 p: 0.0975 lp: 65527
+ConnectID: 11 hasMe: 1 p: 0.185494 lp: 0
+LastRecv: 15 5 11 
+Time: 1289
+SelfLP: 65520
+CS
+ConnectID: 15 hasMe: 0 p: 0.181094 lp: 0
+ConnectID: 5 hasMe: 0 p: 0.142625 lp: 65527
+ConnectID: 11 hasMe: 0 p: 0.226219 lp: 0
+Time: 1539
+SelfLP: 65520
+CS
+ConnectID: 15 hasMe: 0 p: 0.181094 lp: 53035
+ConnectID: 5 hasMe: 1 p: 0.142625 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.226219 lp: 53036
+LastRecv: 15 5 11 
+Time: 1539
+SelfLP: 65523.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.172039 lp: 4295.43
+ConnectID: 5 hasMe: 0 p: 0.185494 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.264908 lp: 53036
+Time: 1789
+SelfLP: 65523.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.172039 lp: 4290
+ConnectID: 5 hasMe: 0 p: 0.185494 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.264908 lp: 65509
+LastRecv: 15 11 
+Time: 1789
+SelfLP: 17511.4
+CS
+ConnectID: 15 hasMe: 0 p: 0.213437 lp: 4290
+ConnectID: 5 hasMe: 0 p: 0.176219 lp: 17517.1
+ConnectID: 11 hasMe: 0 p: 0.251663 lp: 9172.44
+Time: 2039
+SelfLP: 17511.4
+CS
+ConnectID: 15 hasMe: 1 p: 0.213437 lp: 65514
+ConnectID: 5 hasMe: 1 p: 0.176219 lp: 65514
+ConnectID: 11 hasMe: 0 p: 0.251663 lp: 9172.44
+LastRecv: 15 5 
+Time: 2039
+SelfLP: 65510
+CS
+ConnectID: 15 hasMe: 0 p: 0.252766 lp: 65514
+ConnectID: 5 hasMe: 0 p: 0.217408 lp: 65514
+ConnectID: 11 hasMe: 0 p: 0.23908 lp: 8255.2
+Time: 2289
+SelfLP: 65510
+CS
+ConnectID: 15 hasMe: 1 p: 0.252766 lp: 65519
+ConnectID: 5 hasMe: 1 p: 0.217408 lp: 65531
+ConnectID: 11 hasMe: 1 p: 0.23908 lp: 65519
+ConnectID: 6 hasMe: 0 p: 0 lp: 65527
+LastRecv: 15 5 11 6 
+Time: 2289
+SelfLP: 65527.1
+CS
+ConnectID: 15 hasMe: 0 p: 0.290127 lp: 65519
+ConnectID: 5 hasMe: 0 p: 0.256538 lp: 65531
+ConnectID: 11 hasMe: 0 p: 0.277126 lp: 65519
+ConnectID: 6 hasMe: 0 p: 0 lp: 24270
+Time: 2539
+SelfLP: 65527.1
+CS
+ConnectID: 15 hasMe: 1 p: 0.290127 lp: 53028
+ConnectID: 5 hasMe: 1 p: 0.256538 lp: 65531
+ConnectID: 11 hasMe: 0 p: 0.277126 lp: 65506
+ConnectID: 6 hasMe: 0 p: 0 lp: 24270
+LastRecv: 15 5 11 
+Time: 2539
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.325621 lp: 53028
+ConnectID: 5 hasMe: 0 p: 0.293711 lp: 65531
+ConnectID: 11 hasMe: 0 p: 0.263269 lp: 21067.3
+ConnectID: 6 hasMe: 0 p: 0 lp: 21843
+Time: 2789
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.325621 lp: 65506
+ConnectID: 5 hasMe: 0 p: 0.293711 lp: 65531
+ConnectID: 11 hasMe: 0 p: 0.263269 lp: 21067.3
+ConnectID: 6 hasMe: 0 p: 0 lp: 21843
+LastRecv: 15 5 
+Time: 2789
+SelfLP: 65503.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.35934 lp: 65506
+ConnectID: 5 hasMe: 0 p: 0.279025 lp: 32079.2
+ConnectID: 11 hasMe: 0 p: 0.250106 lp: 18960.6
+ConnectID: 6 hasMe: 0 p: 0 lp: 19658.7
+Time: 3039
+SelfLP: 65503.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.35934 lp: 65524
+ConnectID: 5 hasMe: 1 p: 0.279025 lp: 65532
+ConnectID: 11 hasMe: 1 p: 0.250106 lp: 65523
+ConnectID: 6 hasMe: 0 p: 0 lp: 19658.7
+LastRecv: 15 5 11 
+Time: 3039
+SelfLP: 65528.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.341373 lp: 23400.1
+ConnectID: 5 hasMe: 0 p: 0.315074 lp: 65532
+ConnectID: 11 hasMe: 0 p: 0.287601 lp: 65523
+ConnectID: 6 hasMe: 0 p: 0 lp: 17692.9
+Time: 3289
+SelfLP: 65528.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.341373 lp: 65512
+ConnectID: 5 hasMe: 1 p: 0.315074 lp: 65532
+ConnectID: 11 hasMe: 0 p: 0.287601 lp: 65523
+ConnectID: 6 hasMe: 0 p: 0 lp: 17692.9
+LastRecv: 15 5 
+Time: 3289
+SelfLP: 65529.1
+CS
+ConnectID: 15 hasMe: 0 p: 0.374304 lp: 65512
+ConnectID: 5 hasMe: 0 p: 0.34932 lp: 65532
+ConnectID: 11 hasMe: 0 p: 0.273221 lp: 27148.8
+ConnectID: 6 hasMe: 0 p: 0 lp: 15923.6
+Time: 3539
+SelfLP: 65529.1
+CS
+ConnectID: 15 hasMe: 1 p: 0.374304 lp: 65500
+ConnectID: 5 hasMe: 1 p: 0.34932 lp: 65532
+ConnectID: 11 hasMe: 0 p: 0.273221 lp: 65518
+ConnectID: 6 hasMe: 0 p: 0 lp: 15923.6
+ConnectID: 16 hasMe: 0 p: 0 lp: 65520
+LastRecv: 15 16 5 11 
+Time: 3539
+SelfLP: 65529.4
+CS
+ConnectID: 15 hasMe: 0 p: 0.405589 lp: 65500
+ConnectID: 5 hasMe: 0 p: 0.381854 lp: 65532
+ConnectID: 11 hasMe: 0 p: 0.259559 lp: 32073.6
+ConnectID: 6 hasMe: 0 p: 0 lp: 14331.2
+ConnectID: 16 hasMe: 0 p: 0 lp: 27147.2
+Time: 3789
+SelfLP: 65529.4
+CS
+ConnectID: 15 hasMe: 1 p: 0.405589 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.381854 lp: 65532
+ConnectID: 11 hasMe: 1 p: 0.259559 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 14331.2
+ConnectID: 16 hasMe: 0 p: 0 lp: 27147.2
+LastRecv: 15 5 11 
+Time: 3789
+SelfLP: 65529.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.43531 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.412762 lp: 65532
+ConnectID: 11 hasMe: 0 p: 0.296582 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 12898.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 24432.4
+Time: 4039
+SelfLP: 65529.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.43531 lp: 65526
+ConnectID: 5 hasMe: 0 p: 0.412762 lp: 65532
+ConnectID: 11 hasMe: 1 p: 0.296582 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 12898.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 24432.4
+LastRecv: 15 11 
+Time: 4039
+SelfLP: 65523.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.463544 lp: 65526
+ConnectID: 5 hasMe: 0 p: 0.392124 lp: 39302
+ConnectID: 11 hasMe: 0 p: 0.331752 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 11608.3
+ConnectID: 16 hasMe: 0 p: 0 lp: 21989.2
+Time: 4289
+SelfLP: 65523.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.463544 lp: 65526
+ConnectID: 5 hasMe: 1 p: 0.392124 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.331752 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 65529
+ConnectID: 16 hasMe: 0 p: 0 lp: 21989.2
+LastRecv: 15 5 11 6 
+Time: 4289
+SelfLP: 65530.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.490367 lp: 65526
+ConnectID: 5 hasMe: 0 p: 0.422517 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.365165 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 39097.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 19790.3
+Time: 4539
+SelfLP: 65530.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.490367 lp: 65526
+ConnectID: 5 hasMe: 1 p: 0.422517 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.365165 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 39097.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 65524
+LastRecv: 15 16 5 11 
+Time: 4539
+SelfLP: 65530.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.465849 lp: 37302.9
+ConnectID: 5 hasMe: 0 p: 0.451391 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.396907 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 35188.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 36063.6
+Time: 4789
+SelfLP: 65530.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.465849 lp: 65522
+ConnectID: 5 hasMe: 1 p: 0.451391 lp: 65526
+ConnectID: 11 hasMe: 1 p: 0.396907 lp: 65522
+ConnectID: 6 hasMe: 0 p: 0 lp: 65530
+ConnectID: 16 hasMe: 0 p: 0 lp: 36063.6
+LastRecv: 15 5 11 6 
+Time: 4789
+SelfLP: 65523.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.492556 lp: 65522
+ConnectID: 5 hasMe: 0 p: 0.478822 lp: 65526
+ConnectID: 11 hasMe: 0 p: 0.427061 lp: 65522
+ConnectID: 6 hasMe: 0 p: 0 lp: 41754.7
+ConnectID: 16 hasMe: 0 p: 0 lp: 32457.3
+Time: 5039
+SelfLP: 65523.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.492556 lp: 65522
+ConnectID: 5 hasMe: 1 p: 0.478822 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.427061 lp: 65527
+ConnectID: 6 hasMe: 0 p: 0 lp: 41754.7
+ConnectID: 16 hasMe: 0 p: 0 lp: 32457.3
+LastRecv: 5 11 
+Time: 5039
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 0 p: 0.467928 lp: 38880
+ConnectID: 5 hasMe: 0 p: 0.504881 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.455708 lp: 65527
+ConnectID: 6 hasMe: 0 p: 0 lp: 37579.2
+ConnectID: 16 hasMe: 0 p: 0 lp: 29211.5
+Time: 5289
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 1 p: 0.467928 lp: 65522
+ConnectID: 5 hasMe: 0 p: 0.504881 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.455708 lp: 65527
+ConnectID: 6 hasMe: 0 p: 0 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0 lp: 29211.5
+LastRecv: 15 11 6 
+Time: 5289
+SelfLP: 65520
+CS
+ConnectID: 15 hasMe: 0 p: 0.494532 lp: 65522
+ConnectID: 5 hasMe: 0 p: 0.479637 lp: 44944.5
+ConnectID: 11 hasMe: 0 p: 0.432923 lp: 43030.4
+ConnectID: 6 hasMe: 0 p: 0 lp: 43906.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 26290.4
+Time: 5539
+SelfLP: 65520
+CS
+ConnectID: 15 hasMe: 1 p: 0.494532 lp: 65522
+ConnectID: 5 hasMe: 1 p: 0.479637 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.432923 lp: 65516
+ConnectID: 6 hasMe: 0 p: 0 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0 lp: 26290.4
+LastRecv: 15 5 11 6 
+Time: 5539
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 0 p: 0.519805 lp: 65522
+ConnectID: 5 hasMe: 0 p: 0.505655 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.461277 lp: 65516
+ConnectID: 6 hasMe: 0 p: 0 lp: 44823.8
+ConnectID: 16 hasMe: 0 p: 0 lp: 23661.3
+Time: 5789
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 1 p: 0.519805 lp: 65528
+ConnectID: 5 hasMe: 0 p: 0.505655 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.461277 lp: 65528
+ConnectID: 6 hasMe: 0 p: 0 lp: 44823.8
+ConnectID: 16 hasMe: 0 p: 0 lp: 23661.3
+LastRecv: 15 11 
+Time: 5789
+SelfLP: 65526.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.543815 lp: 65528
+ConnectID: 5 hasMe: 0 p: 0.480372 lp: 46490
+ConnectID: 11 hasMe: 0 p: 0.488213 lp: 65528
+ConnectID: 6 hasMe: 0 p: 0 lp: 40341.4
+ConnectID: 16 hasMe: 0 p: 0 lp: 21295.2
+Time: 6039
+SelfLP: 65526.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.543815 lp: 65528
+ConnectID: 5 hasMe: 1 p: 0.480372 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.488213 lp: 65528
+ConnectID: 6 hasMe: 0 p: 0 lp: 40341.4
+ConnectID: 16 hasMe: 0 p: 0 lp: 21295.2
+LastRecv: 5 11 
+Time: 6039
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 0 p: 0.516624 lp: 43761.9
+ConnectID: 5 hasMe: 0 p: 0.506354 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.513802 lp: 65528
+ConnectID: 6 hasMe: 0 p: 0 lp: 36307.3
+ConnectID: 16 hasMe: 0 p: 0 lp: 19165.7
+Time: 6289
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 1 p: 0.516624 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.506354 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.513802 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 36307.3
+ConnectID: 16 hasMe: 0 p: 0 lp: 19165.7
+LastRecv: 15 5 11 
+Time: 6289
+SelfLP: 65527.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.540793 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.481036 lp: 48276
+ConnectID: 11 hasMe: 0 p: 0.538112 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 32676.5
+ConnectID: 16 hasMe: 0 p: 0 lp: 17249.1
+Time: 6539
+SelfLP: 65527.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.540793 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.481036 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.538112 lp: 65528
+ConnectID: 6 hasMe: 0 p: 0 lp: 32676.5
+ConnectID: 16 hasMe: 0 p: 0 lp: 17249.1
+LastRecv: 5 11 
+Time: 6539
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 0 p: 0.513753 lp: 45530.9
+ConnectID: 5 hasMe: 0 p: 0.506984 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.561206 lp: 65528
+ConnectID: 6 hasMe: 0 p: 0 lp: 29408.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 15524.2
+Time: 6789
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 1 p: 0.513753 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.506984 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.561206 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 29408.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 15524.2
+LastRecv: 15 5 11 
+Time: 6789
+SelfLP: 65531.1
+CS
+ConnectID: 15 hasMe: 0 p: 0.538066 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.531635 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.583146 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 26468
+ConnectID: 16 hasMe: 0 p: 0 lp: 13971.8
+Time: 7039
+SelfLP: 65531.1
+CS
+ConnectID: 15 hasMe: 1 p: 0.538066 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.531635 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.583146 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 26468
+ConnectID: 16 hasMe: 0 p: 0 lp: 13971.8
+LastRecv: 15 5 11 
+Time: 7039
+SelfLP: 65531.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.561162 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.555053 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.603989 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 23821.2
+ConnectID: 16 hasMe: 0 p: 0 lp: 12574.6
+Time: 7289
+SelfLP: 65531.2
+CS
+ConnectID: 15 hasMe: 1 p: 0.561162 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.555053 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.603989 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 23821.2
+ConnectID: 16 hasMe: 0 p: 0 lp: 12574.6
+LastRecv: 15 11 
+Time: 7289
+SelfLP: 65527.4
+CS
+ConnectID: 15 hasMe: 0 p: 0.583104 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.5273 lp: 49578.5
+ConnectID: 11 hasMe: 0 p: 0.623789 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 21439.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 11317.1
+Time: 7539
+SelfLP: 65527.4
+CS
+ConnectID: 15 hasMe: 1 p: 0.583104 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.5273 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.623789 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 21439.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 65527
+LastRecv: 15 16 5 11 
+Time: 7539
+SelfLP: 65531.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.603949 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.550935 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.6426 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 19295.2
+ConnectID: 16 hasMe: 0 p: 0 lp: 47274
+Time: 7789
+SelfLP: 65531.2
+CS
+ConnectID: 15 hasMe: 1 p: 0.603949 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.550935 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.6426 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 19295.2
+ConnectID: 16 hasMe: 1 p: 0 lp: 65527
+LastRecv: 15 16 5 11 
+Time: 7789
+SelfLP: 65531.3
+CS
+ConnectID: 15 hasMe: 0 p: 0.623752 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.573389 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.66047 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 17365.7
+ConnectID: 16 hasMe: 0 p: 0.05 lp: 65527
+Time: 8039
+SelfLP: 65531.3
+CS
+ConnectID: 15 hasMe: 0 p: 0.623752 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.573389 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.66047 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 17365.7
+ConnectID: 16 hasMe: 0 p: 0.05 lp: 65527
+LastRecv: 15 5 11 
+Time: 8039
+SelfLP: 65531.3
+CS
+ConnectID: 15 hasMe: 0 p: 0.592564 lp: 49467.5
+ConnectID: 5 hasMe: 0 p: 0.594719 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.677446 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 15629.1
+ConnectID: 16 hasMe: 0 p: 0.0475 lp: 47854
+Time: 8289
+SelfLP: 65531.3
+CS
+ConnectID: 15 hasMe: 1 p: 0.592564 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.594719 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.677446 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 15629.1
+ConnectID: 16 hasMe: 0 p: 0.0475 lp: 47854
+LastRecv: 15 5 
+Time: 8289
+SelfLP: 65531.4
+CS
+ConnectID: 15 hasMe: 0 p: 0.612936 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.614983 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.643574 lp: 49924.3
+ConnectID: 6 hasMe: 0 p: 0 lp: 14066.2
+ConnectID: 16 hasMe: 0 p: 0.045125 lp: 43068.6
+Time: 8539
+SelfLP: 65531.4
+CS
+ConnectID: 15 hasMe: 1 p: 0.612936 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.614983 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.643574 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.045125 lp: 43068.6
+LastRecv: 15 5 11 6 
+Time: 8539
+SelfLP: 65527.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.632289 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.634234 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.661395 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 50748.1
+ConnectID: 16 hasMe: 0 p: 0.0428688 lp: 38761.7
+Time: 8789
+SelfLP: 65527.5
+CS
+ConnectID: 15 hasMe: 1 p: 0.632289 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.634234 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.661395 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 50748.1
+ConnectID: 16 hasMe: 0 p: 0.0428688 lp: 38761.7
+LastRecv: 15 5 11 
+Time: 8789
+SelfLP: 65527.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.650675 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.652522 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.678326 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 45673.3
+ConnectID: 16 hasMe: 0 p: 0.0407253 lp: 34885.6
+Time: 9039
+SelfLP: 65527.5
+CS
+ConnectID: 15 hasMe: 1 p: 0.650675 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.652522 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.678326 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 45673.3
+ConnectID: 16 hasMe: 0 p: 0.0407253 lp: 34885.6
+LastRecv: 15 5 11 
+Time: 9039
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.668141 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.669896 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.644409 lp: 51008.9
+ConnectID: 6 hasMe: 0 p: 0 lp: 41106
+ConnectID: 16 hasMe: 0 p: 0.038689 lp: 31397
+Time: 9289
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 1 p: 0.668141 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.669896 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.644409 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 41106
+ConnectID: 16 hasMe: 0 p: 0.038689 lp: 31397
+LastRecv: 15 5 11 
+Time: 9289
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.684734 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.686401 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.662189 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 36995.4
+ConnectID: 16 hasMe: 0 p: 0.0367546 lp: 28257.3
+Time: 9539
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.684734 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.686401 lp: 65525
+ConnectID: 11 hasMe: 1 p: 0.662189 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 36995.4
+ConnectID: 16 hasMe: 0 p: 0.0367546 lp: 65523
+LastRecv: 16 5 11 
+Time: 9539
+SelfLP: 65523.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.650497 lp: 50945.8
+ConnectID: 5 hasMe: 0 p: 0.702081 lp: 65525
+ConnectID: 11 hasMe: 0 p: 0.679079 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 33295.8
+ConnectID: 16 hasMe: 0 p: 0.0349169 lp: 50578
+Time: 9789
+SelfLP: 65523.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.650497 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.702081 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.679079 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 33295.8
+ConnectID: 16 hasMe: 0 p: 0.0349169 lp: 50578
+LastRecv: 15 5 11 
+Time: 9789
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.667972 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.716977 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.695125 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 29966.3
+ConnectID: 16 hasMe: 0 p: 0.033171 lp: 45520.2
+Time: 10039
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.667972 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.716977 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.695125 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 29966.3
+ConnectID: 16 hasMe: 0 p: 0.033171 lp: 45520.2
+LastRecv: 5 11 
+Time: 10039
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.634574 lp: 51350.8
+ConnectID: 5 hasMe: 0 p: 0.731128 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.710369 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 26969.6
+ConnectID: 16 hasMe: 0 p: 0.0315125 lp: 40968.2
+Time: 10289
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.634574 lp: 65521
+ConnectID: 5 hasMe: 1 p: 0.731128 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.710369 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 26969.6
+ConnectID: 16 hasMe: 0 p: 0.0315125 lp: 65527
+LastRecv: 15 16 5 
+Time: 10289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.652845 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.744572 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.674851 lp: 51720.1
+ConnectID: 6 hasMe: 0 p: 0 lp: 24272.7
+ConnectID: 16 hasMe: 0 p: 0.0299368 lp: 51255.2
+Time: 10539
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.652845 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.744572 lp: 65525
+ConnectID: 11 hasMe: 1 p: 0.674851 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 24272.7
+ConnectID: 16 hasMe: 0 p: 0.0299368 lp: 51255.2
+LastRecv: 15 5 11 
+Time: 10539
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.670203 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.757343 lp: 65525
+ConnectID: 11 hasMe: 0 p: 0.691108 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 21845.4
+ConnectID: 16 hasMe: 0 p: 0.02844 lp: 46129.7
+Time: 10789
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.670203 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.757343 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.691108 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 21845.4
+ConnectID: 16 hasMe: 0 p: 0.02844 lp: 46129.7
+LastRecv: 15 5 11 
+Time: 10789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.686693 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.769476 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.706553 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 19660.9
+ConnectID: 16 hasMe: 0 p: 0.027018 lp: 41516.7
+Time: 11039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.686693 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.769476 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.706553 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.027018 lp: 41516.7
+LastRecv: 15 5 11 6 
+Time: 11039
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.652358 lp: 52057.1
+ConnectID: 5 hasMe: 0 p: 0.781002 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.721225 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 52266.9
+ConnectID: 16 hasMe: 0 p: 0.0256671 lp: 37365
+Time: 11289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.652358 lp: 65521
+ConnectID: 5 hasMe: 1 p: 0.781002 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.721225 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 52266.9
+ConnectID: 16 hasMe: 0 p: 0.0256671 lp: 37365
+LastRecv: 15 5 
+Time: 11289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.66974 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.791952 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.685164 lp: 52186.7
+ConnectID: 6 hasMe: 0 p: 0 lp: 47040.2
+ConnectID: 16 hasMe: 0 p: 0.0243837 lp: 33628.5
+Time: 11539
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.66974 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.791952 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.685164 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 47040.2
+ConnectID: 16 hasMe: 0 p: 0.0243837 lp: 33628.5
+LastRecv: 15 5 11 
+Time: 11539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.686253 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.802355 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.700906 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 42336.2
+ConnectID: 16 hasMe: 0 p: 0.0231646 lp: 30265.7
+Time: 11789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.686253 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.802355 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.700906 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 42336.2
+ConnectID: 16 hasMe: 0 p: 0.0231646 lp: 30265.7
+LastRecv: 15 5 11 
+Time: 11789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.65194 lp: 52332.5
+ConnectID: 5 hasMe: 0 p: 0.812237 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.71586 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 38102.5
+ConnectID: 16 hasMe: 0 p: 0.0220063 lp: 27239.1
+Time: 12039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.65194 lp: 65517
+ConnectID: 5 hasMe: 0 p: 0.812237 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.71586 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 38102.5
+ConnectID: 16 hasMe: 0 p: 0.0220063 lp: 27239.1
+LastRecv: 15 11 
+Time: 12039
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.669343 lp: 65517
+ConnectID: 5 hasMe: 0 p: 0.771625 lp: 52607.1
+ConnectID: 11 hasMe: 0 p: 0.730067 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34292.3
+ConnectID: 16 hasMe: 0 p: 0.020906 lp: 24515.2
+Time: 12289
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.669343 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.771625 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.730067 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34292.3
+ConnectID: 16 hasMe: 0 p: 0.020906 lp: 24515.2
+LastRecv: 15 5 11 
+Time: 12289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.685876 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.733044 lp: 52697
+ConnectID: 11 hasMe: 0 p: 0.743564 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 30863.1
+ConnectID: 16 hasMe: 0 p: 0.0198607 lp: 22063.7
+Time: 12539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.685876 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.733044 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.743564 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 30863.1
+ConnectID: 16 hasMe: 0 p: 0.0198607 lp: 22063.7
+LastRecv: 15 5 11 
+Time: 12539
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.701582 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.746392 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.756386 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 27776.8
+ConnectID: 16 hasMe: 0 p: 0.0188677 lp: 19857.3
+Time: 12789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.701582 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.746392 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.756386 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 27776.8
+ConnectID: 16 hasMe: 0 p: 0.0188677 lp: 19857.3
+LastRecv: 15 5 11 
+Time: 12789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.716503 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.759072 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.768567 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 24999.1
+ConnectID: 16 hasMe: 0 p: 0.0179243 lp: 17871.6
+Time: 13039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.716503 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.759072 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.768567 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 24999.1
+ConnectID: 16 hasMe: 0 p: 0.0179243 lp: 17871.6
+LastRecv: 15 5 
+Time: 13039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.730678 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.771118 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.730138 lp: 52651.6
+ConnectID: 6 hasMe: 0 p: 0 lp: 22499.2
+ConnectID: 16 hasMe: 0 p: 0.0170281 lp: 16084.4
+Time: 13289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.730678 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.771118 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.730138 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 22499.2
+ConnectID: 16 hasMe: 0 p: 0.0170281 lp: 16084.4
+LastRecv: 15 5 11 
+Time: 13289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.694144 lp: 52680.8
+ConnectID: 5 hasMe: 0 p: 0.782563 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.693631 lp: 52732.6
+ConnectID: 6 hasMe: 0 p: 0 lp: 20249.3
+ConnectID: 16 hasMe: 0 p: 0.0161767 lp: 14476
+Time: 13539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.694144 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.782563 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.693631 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 20249.3
+ConnectID: 16 hasMe: 0 p: 0.0161767 lp: 14476
+LastRecv: 15 5 11 
+Time: 13539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.709437 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.793434 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.65895 lp: 52767.5
+ConnectID: 6 hasMe: 0 p: 0 lp: 18224.3
+ConnectID: 16 hasMe: 0 p: 0.0153678 lp: 13028.4
+Time: 13789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.709437 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.793434 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.65895 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 65523
+ConnectID: 16 hasMe: 0 p: 0.0153678 lp: 65523
+LastRecv: 15 16 11 6 
+Time: 13789
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.723965 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.753763 lp: 52854.1
+ConnectID: 11 hasMe: 0 p: 0.676002 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 52823.3
+ConnectID: 16 hasMe: 0 p: 0.0145995 lp: 52035.2
+Time: 14039
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.723965 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.753763 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.676002 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 52823.3
+ConnectID: 16 hasMe: 0 p: 0.0145995 lp: 52035.2
+LastRecv: 15 5 11 
+Time: 14039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.737767 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.766075 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.692202 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 47541
+ConnectID: 16 hasMe: 0 p: 0.0138695 lp: 46831.7
+Time: 14289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.737767 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.766075 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.692202 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 47541
+ConnectID: 16 hasMe: 0 p: 0.0138695 lp: 46831.7
+LastRecv: 15 5 11 
+Time: 14289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.750879 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.777771 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.707592 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 42786.9
+ConnectID: 16 hasMe: 0 p: 0.013176 lp: 42148.5
+Time: 14539
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.750879 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.777771 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.707592 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 42786.9
+ConnectID: 16 hasMe: 0 p: 0.013176 lp: 42148.5
+LastRecv: 15 5 11 
+Time: 14539
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.763335 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.788882 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.672212 lp: 52872.8
+ConnectID: 6 hasMe: 0 p: 0 lp: 38508.2
+ConnectID: 16 hasMe: 0 p: 0.0125172 lp: 37933.7
+Time: 14789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.763335 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.788882 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.672212 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.0125172 lp: 37933.7
+LastRecv: 15 5 11 6 
+Time: 14789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.775168 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.799438 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.688602 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 52911.6
+ConnectID: 16 hasMe: 0 p: 0.0118913 lp: 34140.3
+Time: 15039
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.775168 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.799438 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.688602 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 52911.6
+ConnectID: 16 hasMe: 0 p: 0.0118913 lp: 34140.3
+LastRecv: 15 5 11 
+Time: 15039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.78641 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.809466 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.704172 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 47620.5
+ConnectID: 16 hasMe: 0 p: 0.0112968 lp: 30726.3
+Time: 15289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.78641 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.809466 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.704172 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 47620.5
+ConnectID: 16 hasMe: 0 p: 0.0112968 lp: 30726.3
+LastRecv: 15 5 11 
+Time: 15289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.797089 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.818993 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.718963 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 42858.4
+ConnectID: 16 hasMe: 0 p: 0.0107319 lp: 27653.6
+Time: 15539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.797089 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.818993 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.718963 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 42858.4
+ConnectID: 16 hasMe: 0 p: 0.0107319 lp: 27653.6
+LastRecv: 5 11 
+Time: 15539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.757235 lp: 52906.8
+ConnectID: 5 hasMe: 0 p: 0.828043 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.733015 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 38572.6
+ConnectID: 16 hasMe: 0 p: 0.0101953 lp: 24888.3
+Time: 15789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.757235 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.828043 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.733015 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 38572.6
+ConnectID: 16 hasMe: 0 p: 0.0101953 lp: 24888.3
+LastRecv: 15 5 
+Time: 15789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.769373 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.836641 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.696364 lp: 52943.2
+ConnectID: 6 hasMe: 0 p: 0 lp: 34715.3
+ConnectID: 16 hasMe: 0 p: 0.00968557 lp: 22399.5
+Time: 16039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.769373 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.836641 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.696364 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34715.3
+ConnectID: 16 hasMe: 0 p: 0.00968557 lp: 22399.5
+LastRecv: 15 11 
+Time: 16039
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.780904 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.794809 lp: 52993.4
+ConnectID: 11 hasMe: 0 p: 0.711546 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 31243.8
+ConnectID: 16 hasMe: 0 p: 0.0092013 lp: 20159.5
+Time: 16289
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.780904 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.794809 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.711546 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.0092013 lp: 20159.5
+LastRecv: 15 5 11 6 
+Time: 16289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.791859 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.805069 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.725969 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 52990.2
+ConnectID: 16 hasMe: 0 p: 0.00874123 lp: 18143.6
+Time: 16539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.791859 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.805069 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.725969 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 52990.2
+ConnectID: 16 hasMe: 0 p: 0.00874123 lp: 18143.6
+LastRecv: 5 11 
+Time: 16539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.752266 lp: 52965.1
+ConnectID: 5 hasMe: 0 p: 0.814815 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.68967 lp: 52990.2
+ConnectID: 6 hasMe: 0 p: 0 lp: 47691.2
+ConnectID: 16 hasMe: 0 p: 0.00830417 lp: 16329.2
+Time: 16789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.752266 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.814815 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.68967 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 47691.2
+ConnectID: 16 hasMe: 0 p: 0.00830417 lp: 16329.2
+LastRecv: 15 5 11 
+Time: 16789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.764653 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.824074 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.705187 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 42922.1
+ConnectID: 16 hasMe: 0 p: 0.00788896 lp: 14696.3
+Time: 17039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.764653 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.824074 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.705187 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 42922.1
+ConnectID: 16 hasMe: 0 p: 0.00788896 lp: 14696.3
+LastRecv: 15 5 11 
+Time: 17039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.77642 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.832871 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.719927 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 38629.9
+ConnectID: 16 hasMe: 0 p: 0.00749451 lp: 13226.7
+Time: 17289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.77642 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.832871 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.719927 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 38629.9
+ConnectID: 16 hasMe: 0 p: 0.00749451 lp: 13226.7
+LastRecv: 15 5 11 
+Time: 17289
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.787599 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.841227 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.733931 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34766.9
+ConnectID: 16 hasMe: 0 p: 0.00711979 lp: 11904
+Time: 17539
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.787599 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.841227 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.733931 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34766.9
+ConnectID: 16 hasMe: 0 p: 0.00711979 lp: 11904
+LastRecv: 15 11 
+Time: 17539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.798219 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.799166 lp: 53034.8
+ConnectID: 11 hasMe: 0 p: 0.747234 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 31290.2
+ConnectID: 16 hasMe: 0 p: 0.0067638 lp: 10713.6
+Time: 17789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.798219 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.799166 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.747234 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 31290.2
+ConnectID: 16 hasMe: 0 p: 0.0067638 lp: 65527
+LastRecv: 15 16 5 11 
+Time: 17789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.808308 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.809208 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.759873 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 28161.2
+ConnectID: 16 hasMe: 0 p: 0.00642561 lp: 52883.3
+Time: 18039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.808308 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.809208 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.759873 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 28161.2
+ConnectID: 16 hasMe: 0 p: 0.00642561 lp: 65527
+LastRecv: 15 16 5 11 
+Time: 18039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.817893 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.818747 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.771879 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 25345
+ConnectID: 16 hasMe: 0 p: 0.00610433 lp: 52902.7
+Time: 18289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.817893 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.818747 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.771879 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 25345
+ConnectID: 16 hasMe: 0 p: 0.00610433 lp: 52902.7
+LastRecv: 15 5 11 
+Time: 18289
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.826998 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.82781 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.783285 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 22810.5
+ConnectID: 16 hasMe: 0 p: 0.00579911 lp: 47612.4
+Time: 18539
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.826998 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.82781 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.783285 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 22810.5
+ConnectID: 16 hasMe: 0 p: 0.00579911 lp: 47612.4
+LastRecv: 15 5 
+Time: 18539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.835648 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.836419 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.744121 lp: 53035.6
+ConnectID: 6 hasMe: 0 p: 0 lp: 20529.5
+ConnectID: 16 hasMe: 0 p: 0.00550916 lp: 42851.2
+Time: 18789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.835648 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.836419 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.744121 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 20529.5
+ConnectID: 16 hasMe: 0 p: 0.00550916 lp: 42851.2
+LastRecv: 15 5 11 
+Time: 18789
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.843866 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.844598 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.706915 lp: 53043.7
+ConnectID: 6 hasMe: 0 p: 0 lp: 18476.5
+ConnectID: 16 hasMe: 0 p: 0.0052337 lp: 38566.1
+Time: 19039
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.843866 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.844598 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.706915 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 18476.5
+ConnectID: 16 hasMe: 0 p: 0.0052337 lp: 38566.1
+LastRecv: 15 5 11 
+Time: 19039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.851673 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.852368 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.671569 lp: 53047.7
+ConnectID: 6 hasMe: 0 p: 0 lp: 16628.9
+ConnectID: 16 hasMe: 0 p: 0.00497201 lp: 34709.5
+Time: 19289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.851673 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.852368 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.671569 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 16628.9
+ConnectID: 16 hasMe: 0 p: 0.00497201 lp: 34709.5
+LastRecv: 15 5 11 
+Time: 19289
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.859089 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.85975 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.687991 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 14966
+ConnectID: 16 hasMe: 0 p: 0.00472341 lp: 31238.5
+Time: 19539
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.859089 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.85975 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.687991 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 14966
+ConnectID: 16 hasMe: 0 p: 0.00472341 lp: 31238.5
+LastRecv: 5 11 
+Time: 19539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.816134 lp: 53045.3
+ConnectID: 5 hasMe: 0 p: 0.866763 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.703591 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 13469.4
+ConnectID: 16 hasMe: 0 p: 0.00448724 lp: 28114.7
+Time: 19789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.816134 lp: 65521
+ConnectID: 5 hasMe: 1 p: 0.866763 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.703591 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 13469.4
+ConnectID: 16 hasMe: 0 p: 0.00448724 lp: 28114.7
+LastRecv: 15 5 
+Time: 19789
+SelfLP: 65527.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.825328 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.873424 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.668412 lp: 53052.6
+ConnectID: 6 hasMe: 0 p: 0 lp: 12122.5
+ConnectID: 16 hasMe: 0 p: 0.00426288 lp: 25303.2
+Time: 20039
+SelfLP: 65527.9
+CS
+ConnectID: 15 hasMe: 1 p: 0.825328 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.873424 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.668412 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 12122.5
+ConnectID: 16 hasMe: 0 p: 0.00426288 lp: 25303.2
+LastRecv: 15 5 11 
+Time: 20039
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.834061 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.879753 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.684991 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 10910.2
+ConnectID: 16 hasMe: 0 p: 0.00404974 lp: 22772.9
+Time: 20289
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.834061 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.879753 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.684991 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 10910.2
+ConnectID: 16 hasMe: 0 p: 0.00404974 lp: 22772.9
+LastRecv: 5 11 
+Time: 20289
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.792358 lp: 53053.4
+ConnectID: 5 hasMe: 0 p: 0.885766 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.700741 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 9819.19
+ConnectID: 16 hasMe: 0 p: 0.00384725 lp: 20495.6
+Time: 20539
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.792358 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.885766 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.700741 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 9819.19
+ConnectID: 16 hasMe: 0 p: 0.00384725 lp: 20495.6
+LastRecv: 15 5 
+Time: 20539
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.75274 lp: 53058.2
+ConnectID: 5 hasMe: 0 p: 0.891477 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.665704 lp: 53059.9
+ConnectID: 6 hasMe: 0 p: 0 lp: 8837.27
+ConnectID: 16 hasMe: 0 p: 0.00365489 lp: 18446
+Time: 20789
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 1 p: 0.75274 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.891477 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.665704 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 8837.27
+ConnectID: 16 hasMe: 0 p: 0.00365489 lp: 18446
+LastRecv: 15 5 11 
+Time: 20789
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.765103 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.896903 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.682419 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 7953.54
+ConnectID: 16 hasMe: 0 p: 0.00347214 lp: 16601.4
+Time: 21039
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 1 p: 0.765103 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.896903 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.682419 lp: 65529
+ConnectID: 6 hasMe: 1 p: 0 lp: 65527
+ConnectID: 16 hasMe: 0 p: 0.00347214 lp: 16601.4
+LastRecv: 15 11 6 
+Time: 21039
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.776848 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.852058 lp: 53070.4
+ConnectID: 11 hasMe: 0 p: 0.698298 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.05 lp: 65527
+ConnectID: 16 hasMe: 0 p: 0.00329853 lp: 14941.3
+Time: 21289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.776848 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.852058 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.698298 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.05 lp: 65527
+ConnectID: 16 hasMe: 0 p: 0.00329853 lp: 14941.3
+LastRecv: 15 5 11 
+Time: 21289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.788006 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.809455 lp: 53072
+ConnectID: 11 hasMe: 0 p: 0.663383 lp: 53066.3
+ConnectID: 6 hasMe: 0 p: 0.0475 lp: 52632.2
+ConnectID: 16 hasMe: 0 p: 0.00313361 lp: 13447.2
+Time: 21539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.788006 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.809455 lp: 65525
+ConnectID: 11 hasMe: 1 p: 0.663383 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0475 lp: 52632.2
+ConnectID: 16 hasMe: 0 p: 0.00313361 lp: 13447.2
+LastRecv: 15 5 11 
+Time: 21539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.798605 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.768983 lp: 53072.8
+ConnectID: 11 hasMe: 0 p: 0.680214 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.045125 lp: 47369
+ConnectID: 16 hasMe: 0 p: 0.00297693 lp: 12102.4
+Time: 21789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.798605 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.768983 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.680214 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.045125 lp: 47369
+ConnectID: 16 hasMe: 0 p: 0.00297693 lp: 12102.4
+LastRecv: 15 5 11 
+Time: 21789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.808675 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.780533 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.696203 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0428688 lp: 42632.1
+ConnectID: 16 hasMe: 0 p: 0.00282808 lp: 10892.2
+Time: 22039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.808675 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.780533 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.696203 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0428688 lp: 42632.1
+ConnectID: 16 hasMe: 0 p: 0.00282808 lp: 65523
+LastRecv: 15 16 5 11 
+Time: 22039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.818241 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.791507 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.711393 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0407253 lp: 38368.9
+ConnectID: 16 hasMe: 0 p: 0.00268668 lp: 53043.7
+Time: 22289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.818241 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.791507 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.711393 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0407253 lp: 38368.9
+ConnectID: 16 hasMe: 0 p: 0.00268668 lp: 53043.7
+LastRecv: 15 5 11 
+Time: 22289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.827329 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.801931 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.725824 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.038689 lp: 34532
+ConnectID: 16 hasMe: 0 p: 0.00255234 lp: 47739.3
+Time: 22539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.827329 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.801931 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.725824 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.038689 lp: 34532
+ConnectID: 16 hasMe: 0 p: 0.00255234 lp: 47739.3
+LastRecv: 5 11 
+Time: 22539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.785963 lp: 53068
+ConnectID: 5 hasMe: 0 p: 0.811835 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.739532 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0367546 lp: 31078.8
+ConnectID: 16 hasMe: 0 p: 0.00242473 lp: 42965.4
+Time: 22789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.785963 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.811835 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.739532 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0367546 lp: 31078.8
+ConnectID: 16 hasMe: 0 p: 0.00242473 lp: 42965.4
+LastRecv: 15 5 11 
+Time: 22789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.796665 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.771243 lp: 53076.1
+ConnectID: 11 hasMe: 0 p: 0.752556 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0349169 lp: 27970.9
+ConnectID: 16 hasMe: 0 p: 0.00230349 lp: 38668.8
+Time: 23039
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.796665 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.771243 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.752556 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0349169 lp: 27970.9
+ConnectID: 16 hasMe: 0 p: 0.00230349 lp: 38668.8
+LastRecv: 5 11 
+Time: 23039
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.756832 lp: 53069.6
+ConnectID: 5 hasMe: 0 p: 0.732681 lp: 53076.9
+ConnectID: 11 hasMe: 0 p: 0.764928 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.033171 lp: 25173.8
+ConnectID: 16 hasMe: 0 p: 0.00218832 lp: 34801.9
+Time: 23289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.756832 lp: 53069.6
+ConnectID: 5 hasMe: 1 p: 0.732681 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.764928 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.033171 lp: 25173.8
+ConnectID: 16 hasMe: 0 p: 0.00218832 lp: 34801.9
+LastRecv: 5 
+Time: 23289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.71899 lp: 47762.6
+ConnectID: 5 hasMe: 0 p: 0.746047 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.726682 lp: 53072
+ConnectID: 6 hasMe: 0 p: 0.0315125 lp: 22656.4
+ConnectID: 16 hasMe: 0 p: 0.0020789 lp: 31321.8
+Time: 23539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.71899 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.746047 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.726682 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0315125 lp: 22656.4
+ConnectID: 16 hasMe: 0 p: 0.0020789 lp: 31321.8
+LastRecv: 15 5 11 
+Time: 23539
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.73304 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.758745 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.740348 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0299368 lp: 20390.8
+ConnectID: 16 hasMe: 0 p: 0.00197495 lp: 28189.6
+Time: 23789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.73304 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.758745 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.740348 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0299368 lp: 20390.8
+ConnectID: 16 hasMe: 0 p: 0.00197495 lp: 28189.6
+LastRecv: 15 5 11 
+Time: 23789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.696388 lp: 53072
+ConnectID: 5 hasMe: 0 p: 0.770807 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.75333 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.02844 lp: 18351.7
+ConnectID: 16 hasMe: 0 p: 0.00187621 lp: 25370.6
+Time: 24039
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.696388 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.770807 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.75333 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.02844 lp: 18351.7
+ConnectID: 16 hasMe: 0 p: 0.00187621 lp: 25370.6
+LastRecv: 15 5 11 
+Time: 24039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.711569 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.782267 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.765664 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.027018 lp: 16516.5
+ConnectID: 16 hasMe: 0 p: 0.0017824 lp: 22833.6
+Time: 24289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.711569 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.782267 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.765664 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.027018 lp: 16516.5
+ConnectID: 16 hasMe: 0 p: 0.0017824 lp: 22833.6
+LastRecv: 15 11 
+Time: 24289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.725991 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.743154 lp: 53077.7
+ConnectID: 11 hasMe: 0 p: 0.77738 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0256671 lp: 14864.9
+ConnectID: 16 hasMe: 0 p: 0.00169328 lp: 20550.2
+Time: 24539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.725991 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.743154 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.77738 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0256671 lp: 14864.9
+ConnectID: 16 hasMe: 0 p: 0.00169328 lp: 20550.2
+LastRecv: 15 5 11 
+Time: 24539
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.739691 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.705996 lp: 53078.5
+ConnectID: 11 hasMe: 0 p: 0.788511 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0243837 lp: 13378.4
+ConnectID: 16 hasMe: 0 p: 0.00160861 lp: 18495.2
+Time: 24789
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.739691 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.705996 lp: 53081
+ConnectID: 11 hasMe: 0 p: 0.788511 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0243837 lp: 13378.4
+ConnectID: 16 hasMe: 0 p: 0.00160861 lp: 18495.2
+LastRecv: 15 5 11 
+Time: 24789
+SelfLP: 53073.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.702706 lp: 53073.6
+ConnectID: 5 hasMe: 0 p: 0.670696 lp: 52070
+ConnectID: 11 hasMe: 0 p: 0.749086 lp: 53075.2
+ConnectID: 6 hasMe: 0 p: 0.0231646 lp: 12040.6
+ConnectID: 16 hasMe: 0 p: 0.00152818 lp: 16645.7
+Time: 25039
+SelfLP: 53073.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.702706 lp: 53073.6
+ConnectID: 5 hasMe: 1 p: 0.670696 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.749086 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0231646 lp: 65527
+ConnectID: 16 hasMe: 0 p: 0.00152818 lp: 65527
+LastRecv: 16 5 11 6 
+Time: 25039
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.667571 lp: 47766.3
+ConnectID: 5 hasMe: 0 p: 0.687161 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.761632 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0220063 lp: 52088.7
+ConnectID: 16 hasMe: 0 p: 0.00145177 lp: 53067.2
+Time: 25289
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.667571 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.687161 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.761632 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0220063 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.00145177 lp: 65527
+LastRecv: 15 16 5 11 6 
+Time: 25289
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.634193 lp: 53073.6
+ConnectID: 5 hasMe: 0 p: 0.702803 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.77355 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.020906 lp: 52187.5
+ConnectID: 16 hasMe: 0 p: 0.00137918 lp: 53068
+Time: 25539
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.634193 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.702803 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.77355 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.020906 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.00137918 lp: 53068
+LastRecv: 15 5 11 6 
+Time: 25539
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.602483 lp: 53073.6
+ConnectID: 5 hasMe: 0 p: 0.717663 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.784872 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0198607 lp: 52276.6
+ConnectID: 16 hasMe: 0 p: 0.00131023 lp: 47761.2
+Time: 25789
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.602483 lp: 53073.6
+ConnectID: 5 hasMe: 1 p: 0.717663 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.784872 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0198607 lp: 52276.6
+ConnectID: 16 hasMe: 0 p: 0.00131023 lp: 47761.2
+LastRecv: 5 11 
+Time: 25789
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.572359 lp: 47766.3
+ConnectID: 5 hasMe: 0 p: 0.73178 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.795629 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0188677 lp: 47048.9
+ConnectID: 16 hasMe: 0 p: 0.00124471 lp: 42985
+Time: 26039
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.572359 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.73178 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.795629 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0188677 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.00124471 lp: 42985
+LastRecv: 15 5 6 
+Time: 26039
+SelfLP: 65527.3
+CS
+ConnectID: 15 hasMe: 0 p: 0.593741 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.695191 lp: 52484.8
+ConnectID: 11 hasMe: 0 p: 0.755847 lp: 53075.2
+ConnectID: 6 hasMe: 0 p: 0.0179243 lp: 52429.7
+ConnectID: 16 hasMe: 0 p: 0.00118248 lp: 38686.5
+Time: 26289
+SelfLP: 65527.3
+CS
+ConnectID: 15 hasMe: 1 p: 0.593741 lp: 65521
+ConnectID: 5 hasMe: 1 p: 0.695191 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.755847 lp: 53075.2
+ConnectID: 6 hasMe: 0 p: 0.0179243 lp: 52429.7
+ConnectID: 16 hasMe: 0 p: 0.00118248 lp: 38686.5
+LastRecv: 15 5 
+Time: 26289
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.614054 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.710431 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.718055 lp: 47767.7
+ConnectID: 6 hasMe: 0 p: 0.0170281 lp: 47186.7
+ConnectID: 16 hasMe: 0 p: 0.00112335 lp: 34817.9
+Time: 26539
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.614054 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.710431 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.718055 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0170281 lp: 47186.7
+ConnectID: 16 hasMe: 0 p: 0.00112335 lp: 34817.9
+LastRecv: 15 5 11 
+Time: 26539
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.633351 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.72491 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.732152 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0161767 lp: 42468
+ConnectID: 16 hasMe: 0 p: 0.00106719 lp: 31336.1
+Time: 26789
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.633351 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.72491 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.732152 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0161767 lp: 42468
+ConnectID: 16 hasMe: 0 p: 0.00106719 lp: 65527
+LastRecv: 15 16 11 
+Time: 26789
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.651684 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.688664 lp: 52598.2
+ConnectID: 11 hasMe: 0 p: 0.745545 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0153678 lp: 38221.2
+ConnectID: 16 hasMe: 0 p: 0.00101383 lp: 53072
+Time: 27039
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.651684 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.688664 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.745545 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0153678 lp: 38221.2
+ConnectID: 16 hasMe: 0 p: 0.00101383 lp: 53072
+LastRecv: 15 5 11 
+Time: 27039
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.669099 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.704231 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.758267 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0145995 lp: 34399.1
+ConnectID: 16 hasMe: 0 p: 0.000963136 lp: 47764.8
+Time: 27289
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.669099 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.704231 lp: 53082
+ConnectID: 11 hasMe: 0 p: 0.758267 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0145995 lp: 34399.1
+ConnectID: 16 hasMe: 0 p: 0.000963136 lp: 47764.8
+LastRecv: 15 5 11 
+Time: 27289
+SelfLP: 65527.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.685644 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.71902 lp: 53082
+ConnectID: 11 hasMe: 0 p: 0.720354 lp: 53076.9
+ConnectID: 6 hasMe: 0 p: 0.0138695 lp: 30959.2
+ConnectID: 16 hasMe: 0 p: 0.000914979 lp: 42988.3
+Time: 27539
+SelfLP: 65527.5
+CS
+ConnectID: 15 hasMe: 1 p: 0.685644 lp: 65521
+ConnectID: 5 hasMe: 1 p: 0.71902 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.720354 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0138695 lp: 30959.2
+ConnectID: 16 hasMe: 0 p: 0.000914979 lp: 42988.3
+LastRecv: 15 5 11 
+Time: 27539
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.701362 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.733069 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.734336 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.013176 lp: 27863.3
+ConnectID: 16 hasMe: 0 p: 0.00086923 lp: 38689.5
+Time: 27789
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.701362 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.733069 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.734336 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.013176 lp: 27863.3
+ConnectID: 16 hasMe: 0 p: 0.00086923 lp: 38689.5
+LastRecv: 15 5 11 
+Time: 27789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.716294 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.746415 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.74762 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0125172 lp: 25077
+ConnectID: 16 hasMe: 0 p: 0.000825769 lp: 34820.5
+Time: 28039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.716294 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.746415 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.74762 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0125172 lp: 25077
+ConnectID: 16 hasMe: 0 p: 0.000825769 lp: 65527
+LastRecv: 16 5 11 
+Time: 28039
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.680479 lp: 53075.2
+ConnectID: 5 hasMe: 0 p: 0.709094 lp: 52089.5
+ConnectID: 11 hasMe: 0 p: 0.760239 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0118913 lp: 22569.3
+ConnectID: 16 hasMe: 0 p: 0.00078448 lp: 53073.6
+Time: 28289
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.680479 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.709094 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.760239 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0118913 lp: 22569.3
+ConnectID: 16 hasMe: 0 p: 0.00078448 lp: 53073.6
+LastRecv: 15 5 11 
+Time: 28289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.696455 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.67364 lp: 52189.1
+ConnectID: 11 hasMe: 0 p: 0.772227 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0112968 lp: 20312.3
+ConnectID: 16 hasMe: 0 p: 0.000745256 lp: 47766.3
+Time: 28539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.696455 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.67364 lp: 53082
+ConnectID: 11 hasMe: 1 p: 0.772227 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0112968 lp: 20312.3
+ConnectID: 16 hasMe: 0 p: 0.000745256 lp: 47766.3
+LastRecv: 15 5 11 
+Time: 28539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.711633 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.689958 lp: 53082
+ConnectID: 11 hasMe: 0 p: 0.783615 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0107319 lp: 18281.1
+ConnectID: 16 hasMe: 0 p: 0.000707993 lp: 42989.6
+Time: 28789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.711633 lp: 65521
+ConnectID: 5 hasMe: 1 p: 0.689958 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.783615 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0107319 lp: 18281.1
+ConnectID: 16 hasMe: 0 p: 0.000707993 lp: 42989.6
+LastRecv: 15 5 11 
+Time: 28789
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.726051 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.70546 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.794435 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0101953 lp: 16453
+ConnectID: 16 hasMe: 0 p: 0.000672594 lp: 38690.7
+Time: 29039
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.726051 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.70546 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.794435 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0101953 lp: 16453
+ConnectID: 16 hasMe: 0 p: 0.000672594 lp: 38690.7
+LastRecv: 11 
+Time: 29039
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.689748 lp: 53075.2
+ConnectID: 5 hasMe: 0 p: 0.670187 lp: 51450.4
+ConnectID: 11 hasMe: 0 p: 0.804713 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.00968557 lp: 14807.7
+ConnectID: 16 hasMe: 0 p: 0.000638964 lp: 34821.6
+Time: 29289
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.689748 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.670187 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.804713 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.00968557 lp: 14807.7
+ConnectID: 16 hasMe: 0 p: 0.000638964 lp: 34821.6
+LastRecv: 15 5 11 
+Time: 29289
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.705261 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.686677 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.814477 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0092013 lp: 13326.9
+ConnectID: 16 hasMe: 0 p: 0.000607016 lp: 31339.4
+Time: 29539
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 1 p: 0.705261 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.686677 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.814477 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0092013 lp: 13326.9
+ConnectID: 16 hasMe: 0 p: 0.000607016 lp: 31339.4
+LastRecv: 15 11 
+Time: 29539
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.719998 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.652344 lp: 51760.6
+ConnectID: 11 hasMe: 0 p: 0.823753 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.00874123 lp: 11994.2
+ConnectID: 16 hasMe: 0 p: 0.000576665 lp: 28205.5
+Time: 29789
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.719998 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.652344 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.823753 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.00874123 lp: 11994.2
+ConnectID: 16 hasMe: 0 p: 0.000576665 lp: 28205.5
+LastRecv: 15 5 11 
+Time: 29789
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.733998 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.669726 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.832566 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.00830417 lp: 10794.8
+ConnectID: 16 hasMe: 0 p: 0.000547832 lp: 25385
+Time: 39
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 0 p: 0 lp: 0
+ConnectID: 5 hasMe: 0 p: 0 lp: 0
+ConnectID: 11 hasMe: 0 p: 0 lp: 0
+LastRecv: 15 5 11 
+Time: 39
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 0 p: 0 lp: 0
+ConnectID: 5 hasMe: 0 p: 0 lp: 0
+ConnectID: 11 hasMe: 0 p: 0 lp: 0
+Time: 289
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 1 p: 0 lp: 0
+ConnectID: 5 hasMe: 0 p: 0 lp: 0
+ConnectID: 11 hasMe: 1 p: 0 lp: 0
+LastRecv: 15 5 11 
+Time: 289
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 0 p: 0.05 lp: 0
+ConnectID: 5 hasMe: 0 p: 0 lp: 0
+ConnectID: 11 hasMe: 0 p: 0.05 lp: 0
+Time: 539
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 1 p: 0.05 lp: 0
+ConnectID: 5 hasMe: 0 p: 0 lp: 0
+ConnectID: 11 hasMe: 1 p: 0.05 lp: 0
+LastRecv: 15 11 
+Time: 539
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 0 p: 0.0975 lp: 0
+ConnectID: 5 hasMe: 0 p: 0 lp: 0
+ConnectID: 11 hasMe: 0 p: 0.0975 lp: 0
+Time: 789
+SelfLP: 0
+CS
+ConnectID: 15 hasMe: 0 p: 0.0975 lp: 0
+ConnectID: 5 hasMe: 1 p: 0 lp: 58960
+ConnectID: 11 hasMe: 1 p: 0.0975 lp: 0
+LastRecv: 5 11 
+Time: 789
+SelfLP: 58940
+CS
+ConnectID: 15 hasMe: 0 p: 0.092625 lp: 0
+ConnectID: 5 hasMe: 0 p: 0.05 lp: 58960
+ConnectID: 11 hasMe: 0 p: 0.142625 lp: 0
+Time: 1039
+SelfLP: 58940
+CS
+ConnectID: 15 hasMe: 1 p: 0.092625 lp: 0
+ConnectID: 5 hasMe: 1 p: 0.05 lp: 65524
+ConnectID: 11 hasMe: 1 p: 0.142625 lp: 0
+LastRecv: 15 5 11 
+Time: 1039
+SelfLP: 65513.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.137994 lp: 0
+ConnectID: 5 hasMe: 0 p: 0.0975 lp: 65524
+ConnectID: 11 hasMe: 0 p: 0.185494 lp: 0
+Time: 1289
+SelfLP: 65513.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.137994 lp: 0
+ConnectID: 5 hasMe: 1 p: 0.0975 lp: 65527
+ConnectID: 11 hasMe: 1 p: 0.185494 lp: 0
+LastRecv: 15 5 11 
+Time: 1289
+SelfLP: 65520
+CS
+ConnectID: 15 hasMe: 0 p: 0.181094 lp: 0
+ConnectID: 5 hasMe: 0 p: 0.142625 lp: 65527
+ConnectID: 11 hasMe: 0 p: 0.226219 lp: 0
+Time: 1539
+SelfLP: 65520
+CS
+ConnectID: 15 hasMe: 0 p: 0.181094 lp: 58933
+ConnectID: 5 hasMe: 1 p: 0.142625 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.226219 lp: 58934
+LastRecv: 15 5 11 
+Time: 1539
+SelfLP: 65523.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.172039 lp: 53039.7
+ConnectID: 5 hasMe: 0 p: 0.185494 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.264908 lp: 58934
+Time: 1789
+SelfLP: 65523.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.172039 lp: 53039
+ConnectID: 5 hasMe: 0 p: 0.185494 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.264908 lp: 65509
+LastRecv: 15 11 
+Time: 1789
+SelfLP: 58970.4
+CS
+ConnectID: 15 hasMe: 0 p: 0.213437 lp: 53039
+ConnectID: 5 hasMe: 0 p: 0.176219 lp: 58976.1
+ConnectID: 11 hasMe: 0 p: 0.251663 lp: 58958.1
+Time: 2039
+SelfLP: 58970.4
+CS
+ConnectID: 15 hasMe: 1 p: 0.213437 lp: 65514
+ConnectID: 5 hasMe: 1 p: 0.176219 lp: 65514
+ConnectID: 11 hasMe: 0 p: 0.251663 lp: 58958.1
+LastRecv: 15 5 
+Time: 2039
+SelfLP: 65510
+CS
+ConnectID: 15 hasMe: 0 p: 0.252766 lp: 65514
+ConnectID: 5 hasMe: 0 p: 0.217408 lp: 65514
+ConnectID: 11 hasMe: 0 p: 0.23908 lp: 53062.3
+Time: 2289
+SelfLP: 65510
+CS
+ConnectID: 15 hasMe: 1 p: 0.252766 lp: 65519
+ConnectID: 5 hasMe: 1 p: 0.217408 lp: 65531
+ConnectID: 11 hasMe: 1 p: 0.23908 lp: 65519
+ConnectID: 6 hasMe: 0 p: 0 lp: 65527
+LastRecv: 15 5 11 6 
+Time: 2289
+SelfLP: 65527.1
+CS
+ConnectID: 15 hasMe: 0 p: 0.290127 lp: 65519
+ConnectID: 5 hasMe: 0 p: 0.256538 lp: 65531
+ConnectID: 11 hasMe: 0 p: 0.277126 lp: 65519
+ConnectID: 6 hasMe: 0 p: 0 lp: 58974.3
+Time: 2539
+SelfLP: 65527.1
+CS
+ConnectID: 15 hasMe: 1 p: 0.290127 lp: 58966
+ConnectID: 5 hasMe: 1 p: 0.256538 lp: 65531
+ConnectID: 11 hasMe: 0 p: 0.277126 lp: 65506
+ConnectID: 6 hasMe: 0 p: 0 lp: 58974.3
+LastRecv: 15 5 11 
+Time: 2539
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.325621 lp: 58966
+ConnectID: 5 hasMe: 0 p: 0.293711 lp: 65531
+ConnectID: 11 hasMe: 0 p: 0.263269 lp: 58955.4
+ConnectID: 6 hasMe: 0 p: 0 lp: 53076.9
+Time: 2789
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.325621 lp: 65506
+ConnectID: 5 hasMe: 0 p: 0.293711 lp: 65531
+ConnectID: 11 hasMe: 0 p: 0.263269 lp: 58955.4
+ConnectID: 6 hasMe: 0 p: 0 lp: 53076.9
+LastRecv: 15 5 
+Time: 2789
+SelfLP: 65503.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.35934 lp: 65506
+ConnectID: 5 hasMe: 0 p: 0.279025 lp: 58977.9
+ConnectID: 11 hasMe: 0 p: 0.250106 lp: 53059.9
+ConnectID: 6 hasMe: 0 p: 0 lp: 47769.2
+Time: 3039
+SelfLP: 65503.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.35934 lp: 65524
+ConnectID: 5 hasMe: 1 p: 0.279025 lp: 65532
+ConnectID: 11 hasMe: 1 p: 0.250106 lp: 65523
+ConnectID: 6 hasMe: 0 p: 0 lp: 47769.2
+LastRecv: 15 5 11 
+Time: 3039
+SelfLP: 65528.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.341373 lp: 58971.6
+ConnectID: 5 hasMe: 0 p: 0.315074 lp: 65532
+ConnectID: 11 hasMe: 0 p: 0.287601 lp: 65523
+ConnectID: 6 hasMe: 0 p: 0 lp: 42992.3
+Time: 3289
+SelfLP: 65528.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.341373 lp: 65512
+ConnectID: 5 hasMe: 1 p: 0.315074 lp: 65532
+ConnectID: 11 hasMe: 0 p: 0.287601 lp: 65523
+ConnectID: 6 hasMe: 0 p: 0 lp: 42992.3
+LastRecv: 15 5 
+Time: 3289
+SelfLP: 65529.1
+CS
+ConnectID: 15 hasMe: 0 p: 0.374304 lp: 65512
+ConnectID: 5 hasMe: 0 p: 0.34932 lp: 65532
+ConnectID: 11 hasMe: 0 p: 0.273221 lp: 58970.7
+ConnectID: 6 hasMe: 0 p: 0 lp: 38693
+Time: 3539
+SelfLP: 65529.1
+CS
+ConnectID: 15 hasMe: 1 p: 0.374304 lp: 65500
+ConnectID: 5 hasMe: 1 p: 0.34932 lp: 65532
+ConnectID: 11 hasMe: 0 p: 0.273221 lp: 65518
+ConnectID: 6 hasMe: 0 p: 0 lp: 38693
+ConnectID: 16 hasMe: 0 p: 0 lp: 65520
+LastRecv: 15 16 5 11 
+Time: 3539
+SelfLP: 65529.4
+CS
+ConnectID: 15 hasMe: 0 p: 0.405589 lp: 65500
+ConnectID: 5 hasMe: 0 p: 0.381854 lp: 65532
+ConnectID: 11 hasMe: 0 p: 0.259559 lp: 58966.2
+ConnectID: 6 hasMe: 0 p: 0 lp: 34823.7
+ConnectID: 16 hasMe: 0 p: 0 lp: 58968
+Time: 3789
+SelfLP: 65529.4
+CS
+ConnectID: 15 hasMe: 1 p: 0.405589 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.381854 lp: 65532
+ConnectID: 11 hasMe: 1 p: 0.259559 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 34823.7
+ConnectID: 16 hasMe: 0 p: 0 lp: 58968
+LastRecv: 15 5 11 
+Time: 3789
+SelfLP: 65529.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.43531 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.412762 lp: 65532
+ConnectID: 11 hasMe: 0 p: 0.296582 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 31341.4
+ConnectID: 16 hasMe: 0 p: 0 lp: 53071.2
+Time: 4039
+SelfLP: 65529.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.43531 lp: 65526
+ConnectID: 5 hasMe: 0 p: 0.412762 lp: 65532
+ConnectID: 11 hasMe: 1 p: 0.296582 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 31341.4
+ConnectID: 16 hasMe: 0 p: 0 lp: 53071.2
+LastRecv: 15 11 
+Time: 4039
+SelfLP: 65523.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.463544 lp: 65526
+ConnectID: 5 hasMe: 0 p: 0.392124 lp: 58978.8
+ConnectID: 11 hasMe: 0 p: 0.331752 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 28207.2
+ConnectID: 16 hasMe: 0 p: 0 lp: 47764.1
+Time: 4289
+SelfLP: 65523.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.463544 lp: 65526
+ConnectID: 5 hasMe: 1 p: 0.392124 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.331752 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 65529
+ConnectID: 16 hasMe: 0 p: 0 lp: 47764.1
+LastRecv: 15 5 11 6 
+Time: 4289
+SelfLP: 65530.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.490367 lp: 65526
+ConnectID: 5 hasMe: 0 p: 0.422517 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.365165 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 58976.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 42987.7
+Time: 4539
+SelfLP: 65530.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.490367 lp: 65526
+ConnectID: 5 hasMe: 1 p: 0.422517 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.365165 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 58976.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 65524
+LastRecv: 15 16 5 11 
+Time: 4539
+SelfLP: 65530.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.465849 lp: 58973.4
+ConnectID: 5 hasMe: 0 p: 0.451391 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.396907 lp: 65526
+ConnectID: 6 hasMe: 0 p: 0 lp: 53078.5
+ConnectID: 16 hasMe: 0 p: 0 lp: 58971.6
+Time: 4789
+SelfLP: 65530.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.465849 lp: 65522
+ConnectID: 5 hasMe: 1 p: 0.451391 lp: 65526
+ConnectID: 11 hasMe: 1 p: 0.396907 lp: 65522
+ConnectID: 6 hasMe: 0 p: 0 lp: 65530
+ConnectID: 16 hasMe: 0 p: 0 lp: 58971.6
+LastRecv: 15 5 11 6 
+Time: 4789
+SelfLP: 65523.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.492556 lp: 65522
+ConnectID: 5 hasMe: 0 p: 0.478822 lp: 65526
+ConnectID: 11 hasMe: 0 p: 0.427061 lp: 65522
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977
+ConnectID: 16 hasMe: 0 p: 0 lp: 53074.4
+Time: 5039
+SelfLP: 65523.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.492556 lp: 65522
+ConnectID: 5 hasMe: 1 p: 0.478822 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.427061 lp: 65527
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977
+ConnectID: 16 hasMe: 0 p: 0 lp: 53074.4
+LastRecv: 5 11 
+Time: 5039
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 0 p: 0.467928 lp: 58969.8
+ConnectID: 5 hasMe: 0 p: 0.504881 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.455708 lp: 65527
+ConnectID: 6 hasMe: 0 p: 0 lp: 53079.3
+ConnectID: 16 hasMe: 0 p: 0 lp: 47767
+Time: 5289
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 1 p: 0.467928 lp: 65522
+ConnectID: 5 hasMe: 0 p: 0.504881 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.455708 lp: 65527
+ConnectID: 6 hasMe: 0 p: 0 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0 lp: 47767
+LastRecv: 15 11 6 
+Time: 5289
+SelfLP: 65520
+CS
+ConnectID: 15 hasMe: 0 p: 0.494532 lp: 65522
+ConnectID: 5 hasMe: 0 p: 0.479637 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.432923 lp: 58974.3
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 42990.3
+Time: 5539
+SelfLP: 65520
+CS
+ConnectID: 15 hasMe: 1 p: 0.494532 lp: 65522
+ConnectID: 5 hasMe: 1 p: 0.479637 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.432923 lp: 65516
+ConnectID: 6 hasMe: 0 p: 0 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0 lp: 42990.3
+LastRecv: 15 5 11 6 
+Time: 5539
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 0 p: 0.519805 lp: 65522
+ConnectID: 5 hasMe: 0 p: 0.505655 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.461277 lp: 65516
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 38691.3
+Time: 5789
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 1 p: 0.519805 lp: 65528
+ConnectID: 5 hasMe: 0 p: 0.505655 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.461277 lp: 65528
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 38691.3
+LastRecv: 15 11 
+Time: 5789
+SelfLP: 65526.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.543815 lp: 65528
+ConnectID: 5 hasMe: 0 p: 0.480372 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.488213 lp: 65528
+ConnectID: 6 hasMe: 0 p: 0 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 34822.1
+Time: 6039
+SelfLP: 65526.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.543815 lp: 65528
+ConnectID: 5 hasMe: 1 p: 0.480372 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.488213 lp: 65528
+ConnectID: 6 hasMe: 0 p: 0 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 34822.1
+LastRecv: 5 11 
+Time: 6039
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 0 p: 0.516624 lp: 58975.2
+ConnectID: 5 hasMe: 0 p: 0.506354 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.513802 lp: 65528
+ConnectID: 6 hasMe: 0 p: 0 lp: 47772.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 31339.9
+Time: 6289
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 1 p: 0.516624 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.506354 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.513802 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 47772.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 31339.9
+LastRecv: 15 5 11 
+Time: 6289
+SelfLP: 65527.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.540793 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.481036 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.538112 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 42994.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 28205.9
+Time: 6539
+SelfLP: 65527.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.540793 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.481036 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.538112 lp: 65528
+ConnectID: 6 hasMe: 0 p: 0 lp: 42994.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 28205.9
+LastRecv: 5 11 
+Time: 6539
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 0 p: 0.513753 lp: 58976.1
+ConnectID: 5 hasMe: 0 p: 0.506984 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.561206 lp: 65528
+ConnectID: 6 hasMe: 0 p: 0 lp: 38695.4
+ConnectID: 16 hasMe: 0 p: 0 lp: 25385.3
+Time: 6789
+SelfLP: 65531
+CS
+ConnectID: 15 hasMe: 1 p: 0.513753 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.506984 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.561206 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 38695.4
+ConnectID: 16 hasMe: 0 p: 0 lp: 25385.3
+LastRecv: 15 5 11 
+Time: 6789
+SelfLP: 65531.1
+CS
+ConnectID: 15 hasMe: 0 p: 0.538066 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.531635 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.583146 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34825.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 22846.8
+Time: 7039
+SelfLP: 65531.1
+CS
+ConnectID: 15 hasMe: 1 p: 0.538066 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.531635 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.583146 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34825.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 22846.8
+LastRecv: 15 5 11 
+Time: 7039
+SelfLP: 65531.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.561162 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.555053 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.603989 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 31343.3
+ConnectID: 16 hasMe: 0 p: 0 lp: 20562.1
+Time: 7289
+SelfLP: 65531.2
+CS
+ConnectID: 15 hasMe: 1 p: 0.561162 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.555053 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.603989 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 31343.3
+ConnectID: 16 hasMe: 0 p: 0 lp: 20562.1
+LastRecv: 15 11 
+Time: 7289
+SelfLP: 65527.4
+CS
+ConnectID: 15 hasMe: 0 p: 0.583104 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.5273 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.623789 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 28208.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 18505.9
+Time: 7539
+SelfLP: 65527.4
+CS
+ConnectID: 15 hasMe: 1 p: 0.583104 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.5273 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.623789 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 28208.9
+ConnectID: 16 hasMe: 0 p: 0 lp: 65527
+LastRecv: 15 16 5 11 
+Time: 7539
+SelfLP: 65531.2
+CS
+ConnectID: 15 hasMe: 0 p: 0.603949 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.550935 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.6426 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 25388.1
+ConnectID: 16 hasMe: 0 p: 0 lp: 58974.3
+Time: 7789
+SelfLP: 65531.2
+CS
+ConnectID: 15 hasMe: 1 p: 0.603949 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.550935 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.6426 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 25388.1
+ConnectID: 16 hasMe: 1 p: 0 lp: 65527
+LastRecv: 15 16 5 11 
+Time: 7789
+SelfLP: 65531.3
+CS
+ConnectID: 15 hasMe: 0 p: 0.623752 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.573389 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.66047 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 22849.2
+ConnectID: 16 hasMe: 0 p: 0.05 lp: 65527
+Time: 8039
+SelfLP: 65531.3
+CS
+ConnectID: 15 hasMe: 0 p: 0.623752 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.573389 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.66047 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 22849.2
+ConnectID: 16 hasMe: 0 p: 0.05 lp: 65527
+LastRecv: 15 5 11 
+Time: 8039
+SelfLP: 65531.3
+CS
+ConnectID: 15 hasMe: 0 p: 0.592564 lp: 58972.5
+ConnectID: 5 hasMe: 0 p: 0.594719 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.677446 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 20564.3
+ConnectID: 16 hasMe: 0 p: 0.0475 lp: 58974.3
+Time: 8289
+SelfLP: 65531.3
+CS
+ConnectID: 15 hasMe: 1 p: 0.592564 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.594719 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.677446 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 20564.3
+ConnectID: 16 hasMe: 0 p: 0.0475 lp: 58974.3
+LastRecv: 15 5 
+Time: 8289
+SelfLP: 65531.4
+CS
+ConnectID: 15 hasMe: 0 p: 0.612936 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.614983 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.643574 lp: 58972.5
+ConnectID: 6 hasMe: 0 p: 0 lp: 18507.9
+ConnectID: 16 hasMe: 0 p: 0.045125 lp: 53076.9
+Time: 8539
+SelfLP: 65531.4
+CS
+ConnectID: 15 hasMe: 1 p: 0.612936 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.614983 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.643574 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.045125 lp: 53076.9
+LastRecv: 15 5 11 6 
+Time: 8539
+SelfLP: 65527.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.632289 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.634234 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.661395 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.0428688 lp: 47769.2
+Time: 8789
+SelfLP: 65527.5
+CS
+ConnectID: 15 hasMe: 1 p: 0.632289 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.634234 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.661395 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.0428688 lp: 47769.2
+LastRecv: 15 5 11 
+Time: 8789
+SelfLP: 65527.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.650675 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.652522 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.678326 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0.0407253 lp: 42992.3
+Time: 9039
+SelfLP: 65527.5
+CS
+ConnectID: 15 hasMe: 1 p: 0.650675 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.652522 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.678326 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0.0407253 lp: 42992.3
+LastRecv: 15 5 11 
+Time: 9039
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.668141 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.669896 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.644409 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0 lp: 47772.1
+ConnectID: 16 hasMe: 0 p: 0.038689 lp: 38693
+Time: 9289
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 1 p: 0.668141 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.669896 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.644409 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 47772.1
+ConnectID: 16 hasMe: 0 p: 0.038689 lp: 38693
+LastRecv: 15 5 11 
+Time: 9289
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.684734 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.686401 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.662189 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 42994.9
+ConnectID: 16 hasMe: 0 p: 0.0367546 lp: 34823.7
+Time: 9539
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.684734 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.686401 lp: 65525
+ConnectID: 11 hasMe: 1 p: 0.662189 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 42994.9
+ConnectID: 16 hasMe: 0 p: 0.0367546 lp: 65523
+LastRecv: 16 5 11 
+Time: 9539
+SelfLP: 65523.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.650497 lp: 58972.5
+ConnectID: 5 hasMe: 0 p: 0.702081 lp: 65525
+ConnectID: 11 hasMe: 0 p: 0.679079 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 38695.4
+ConnectID: 16 hasMe: 0 p: 0.0349169 lp: 58970.7
+Time: 9789
+SelfLP: 65523.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.650497 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.702081 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.679079 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 38695.4
+ConnectID: 16 hasMe: 0 p: 0.0349169 lp: 58970.7
+LastRecv: 15 5 11 
+Time: 9789
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.667972 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.716977 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.695125 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34825.9
+ConnectID: 16 hasMe: 0 p: 0.033171 lp: 53073.6
+Time: 10039
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.667972 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.716977 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.695125 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34825.9
+ConnectID: 16 hasMe: 0 p: 0.033171 lp: 53073.6
+LastRecv: 5 11 
+Time: 10039
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.634574 lp: 58976.1
+ConnectID: 5 hasMe: 0 p: 0.731128 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.710369 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 31343.3
+ConnectID: 16 hasMe: 0 p: 0.0315125 lp: 47766.3
+Time: 10289
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.634574 lp: 65521
+ConnectID: 5 hasMe: 1 p: 0.731128 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.710369 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 31343.3
+ConnectID: 16 hasMe: 0 p: 0.0315125 lp: 65527
+LastRecv: 15 16 5 
+Time: 10289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.652845 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.744572 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.674851 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0 lp: 28208.9
+ConnectID: 16 hasMe: 0 p: 0.0299368 lp: 58974.3
+Time: 10539
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.652845 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.744572 lp: 65525
+ConnectID: 11 hasMe: 1 p: 0.674851 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 28208.9
+ConnectID: 16 hasMe: 0 p: 0.0299368 lp: 58974.3
+LastRecv: 15 5 11 
+Time: 10539
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.670203 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.757343 lp: 65525
+ConnectID: 11 hasMe: 0 p: 0.691108 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 25388.1
+ConnectID: 16 hasMe: 0 p: 0.02844 lp: 53076.9
+Time: 10789
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.670203 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.757343 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.691108 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 25388.1
+ConnectID: 16 hasMe: 0 p: 0.02844 lp: 53076.9
+LastRecv: 15 5 11 
+Time: 10789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.686693 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.769476 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.706553 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 22849.2
+ConnectID: 16 hasMe: 0 p: 0.027018 lp: 47769.2
+Time: 11039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.686693 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.769476 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.706553 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.027018 lp: 47769.2
+LastRecv: 15 5 11 6 
+Time: 11039
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.652358 lp: 58976.1
+ConnectID: 5 hasMe: 0 p: 0.781002 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.721225 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.0256671 lp: 42992.3
+Time: 11289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.652358 lp: 65521
+ConnectID: 5 hasMe: 1 p: 0.781002 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.721225 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.0256671 lp: 42992.3
+LastRecv: 15 5 
+Time: 11289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.66974 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.791952 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.685164 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0.0243837 lp: 38693
+Time: 11539
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.66974 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.791952 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.685164 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0.0243837 lp: 38693
+LastRecv: 15 5 11 
+Time: 11539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.686253 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.802355 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.700906 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 47772.1
+ConnectID: 16 hasMe: 0 p: 0.0231646 lp: 34823.7
+Time: 11789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.686253 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.802355 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.700906 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 47772.1
+ConnectID: 16 hasMe: 0 p: 0.0231646 lp: 34823.7
+LastRecv: 15 5 11 
+Time: 11789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.65194 lp: 58972.5
+ConnectID: 5 hasMe: 0 p: 0.812237 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.71586 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 42994.9
+ConnectID: 16 hasMe: 0 p: 0.0220063 lp: 31341.4
+Time: 12039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.65194 lp: 65517
+ConnectID: 5 hasMe: 0 p: 0.812237 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.71586 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 42994.9
+ConnectID: 16 hasMe: 0 p: 0.0220063 lp: 31341.4
+LastRecv: 15 11 
+Time: 12039
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.669343 lp: 65517
+ConnectID: 5 hasMe: 0 p: 0.771625 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.730067 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 38695.4
+ConnectID: 16 hasMe: 0 p: 0.020906 lp: 28207.2
+Time: 12289
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.669343 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.771625 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.730067 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 38695.4
+ConnectID: 16 hasMe: 0 p: 0.020906 lp: 28207.2
+LastRecv: 15 5 11 
+Time: 12289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.685876 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.733044 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.743564 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34825.9
+ConnectID: 16 hasMe: 0 p: 0.0198607 lp: 25386.5
+Time: 12539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.685876 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.733044 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.743564 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34825.9
+ConnectID: 16 hasMe: 0 p: 0.0198607 lp: 25386.5
+LastRecv: 15 5 11 
+Time: 12539
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.701582 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.746392 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.756386 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 31343.3
+ConnectID: 16 hasMe: 0 p: 0.0188677 lp: 22847.9
+Time: 12789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.701582 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.746392 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.756386 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 31343.3
+ConnectID: 16 hasMe: 0 p: 0.0188677 lp: 22847.9
+LastRecv: 15 5 11 
+Time: 12789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.716503 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.759072 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.768567 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 28208.9
+ConnectID: 16 hasMe: 0 p: 0.0179243 lp: 20563.1
+Time: 13039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.716503 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.759072 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.768567 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 28208.9
+ConnectID: 16 hasMe: 0 p: 0.0179243 lp: 20563.1
+LastRecv: 15 5 
+Time: 13039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.730678 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.771118 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.730138 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0 lp: 25388.1
+ConnectID: 16 hasMe: 0 p: 0.0170281 lp: 18506.8
+Time: 13289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.730678 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.771118 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.730138 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 25388.1
+ConnectID: 16 hasMe: 0 p: 0.0170281 lp: 18506.8
+LastRecv: 15 5 11 
+Time: 13289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.694144 lp: 58976.1
+ConnectID: 5 hasMe: 0 p: 0.782563 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.693631 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0 lp: 22849.2
+ConnectID: 16 hasMe: 0 p: 0.0161767 lp: 16656.1
+Time: 13539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.694144 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.782563 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.693631 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 22849.2
+ConnectID: 16 hasMe: 0 p: 0.0161767 lp: 16656.1
+LastRecv: 15 5 11 
+Time: 13539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.709437 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.793434 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.65895 lp: 58972.5
+ConnectID: 6 hasMe: 0 p: 0 lp: 20564.3
+ConnectID: 16 hasMe: 0 p: 0.0153678 lp: 14990.5
+Time: 13789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.709437 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.793434 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.65895 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 65523
+ConnectID: 16 hasMe: 0 p: 0.0153678 lp: 65523
+LastRecv: 15 16 11 6 
+Time: 13789
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.723965 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.753763 lp: 58976.1
+ConnectID: 11 hasMe: 0 p: 0.676002 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 58970.7
+ConnectID: 16 hasMe: 0 p: 0.0145995 lp: 58970.7
+Time: 14039
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.723965 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.753763 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.676002 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 58970.7
+ConnectID: 16 hasMe: 0 p: 0.0145995 lp: 58970.7
+LastRecv: 15 5 11 
+Time: 14039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.737767 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.766075 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.692202 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 53073.6
+ConnectID: 16 hasMe: 0 p: 0.0138695 lp: 53073.6
+Time: 14289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.737767 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.766075 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.692202 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 53073.6
+ConnectID: 16 hasMe: 0 p: 0.0138695 lp: 53073.6
+LastRecv: 15 5 11 
+Time: 14289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.750879 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.777771 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.707592 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 47766.3
+ConnectID: 16 hasMe: 0 p: 0.013176 lp: 47766.3
+Time: 14539
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.750879 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.777771 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.707592 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 47766.3
+ConnectID: 16 hasMe: 0 p: 0.013176 lp: 47766.3
+LastRecv: 15 5 11 
+Time: 14539
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.763335 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.788882 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.672212 lp: 58972.5
+ConnectID: 6 hasMe: 0 p: 0 lp: 42989.6
+ConnectID: 16 hasMe: 0 p: 0.0125172 lp: 42989.6
+Time: 14789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.763335 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.788882 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.672212 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.0125172 lp: 42989.6
+LastRecv: 15 5 11 6 
+Time: 14789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.775168 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.799438 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.688602 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.0118913 lp: 38690.7
+Time: 15039
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.775168 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.799438 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.688602 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.0118913 lp: 38690.7
+LastRecv: 15 5 11 
+Time: 15039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.78641 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.809466 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.704172 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0.0112968 lp: 34821.6
+Time: 15289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.78641 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.809466 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.704172 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0.0112968 lp: 34821.6
+LastRecv: 15 5 11 
+Time: 15289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.797089 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.818993 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.718963 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 47772.1
+ConnectID: 16 hasMe: 0 p: 0.0107319 lp: 31339.4
+Time: 15539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.797089 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.818993 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.718963 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 47772.1
+ConnectID: 16 hasMe: 0 p: 0.0107319 lp: 31339.4
+LastRecv: 5 11 
+Time: 15539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.757235 lp: 58976.1
+ConnectID: 5 hasMe: 0 p: 0.828043 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.733015 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 42994.9
+ConnectID: 16 hasMe: 0 p: 0.0101953 lp: 28205.5
+Time: 15789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.757235 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.828043 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.733015 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 42994.9
+ConnectID: 16 hasMe: 0 p: 0.0101953 lp: 28205.5
+LastRecv: 15 5 
+Time: 15789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.769373 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.836641 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.696364 lp: 58972.5
+ConnectID: 6 hasMe: 0 p: 0 lp: 38695.4
+ConnectID: 16 hasMe: 0 p: 0.00968557 lp: 25385
+Time: 16039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.769373 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.836641 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.696364 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 38695.4
+ConnectID: 16 hasMe: 0 p: 0.00968557 lp: 25385
+LastRecv: 15 11 
+Time: 16039
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.780904 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.794809 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.711546 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34825.9
+ConnectID: 16 hasMe: 0 p: 0.0092013 lp: 22846.5
+Time: 16289
+SelfLP: 65527.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.780904 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.794809 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.711546 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.0092013 lp: 22846.5
+LastRecv: 15 5 11 6 
+Time: 16289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.791859 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.805069 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.725969 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.00874123 lp: 20561.8
+Time: 16539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.791859 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.805069 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.725969 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.00874123 lp: 20561.8
+LastRecv: 5 11 
+Time: 16539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.752266 lp: 58976.1
+ConnectID: 5 hasMe: 0 p: 0.814815 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.68967 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0.00830417 lp: 18505.6
+Time: 16789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.752266 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.814815 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.68967 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0.00830417 lp: 18505.6
+LastRecv: 15 5 11 
+Time: 16789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.764653 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.824074 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.705187 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 47772.1
+ConnectID: 16 hasMe: 0 p: 0.00788896 lp: 16655.1
+Time: 17039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.764653 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.824074 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.705187 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 47772.1
+ConnectID: 16 hasMe: 0 p: 0.00788896 lp: 16655.1
+LastRecv: 15 5 11 
+Time: 17039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.77642 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.832871 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.719927 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 42994.9
+ConnectID: 16 hasMe: 0 p: 0.00749451 lp: 14989.6
+Time: 17289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.77642 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.832871 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.719927 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 42994.9
+ConnectID: 16 hasMe: 0 p: 0.00749451 lp: 14989.6
+LastRecv: 15 5 11 
+Time: 17289
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.787599 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.841227 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.733931 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 38695.4
+ConnectID: 16 hasMe: 0 p: 0.00711979 lp: 13490.6
+Time: 17539
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.787599 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.841227 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.733931 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 38695.4
+ConnectID: 16 hasMe: 0 p: 0.00711979 lp: 13490.6
+LastRecv: 15 11 
+Time: 17539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.798219 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.799166 lp: 58976.1
+ConnectID: 11 hasMe: 0 p: 0.747234 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34825.9
+ConnectID: 16 hasMe: 0 p: 0.0067638 lp: 12141.5
+Time: 17789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.798219 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.799166 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.747234 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 34825.9
+ConnectID: 16 hasMe: 0 p: 0.0067638 lp: 65527
+LastRecv: 15 16 5 11 
+Time: 17789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.808308 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.809208 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.759873 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 31343.3
+ConnectID: 16 hasMe: 0 p: 0.00642561 lp: 58974.3
+Time: 18039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.808308 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.809208 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.759873 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 31343.3
+ConnectID: 16 hasMe: 0 p: 0.00642561 lp: 65527
+LastRecv: 15 16 5 11 
+Time: 18039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.817893 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.818747 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.771879 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 28208.9
+ConnectID: 16 hasMe: 0 p: 0.00610433 lp: 58974.3
+Time: 18289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.817893 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.818747 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.771879 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 28208.9
+ConnectID: 16 hasMe: 0 p: 0.00610433 lp: 58974.3
+LastRecv: 15 5 11 
+Time: 18289
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.826998 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.82781 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.783285 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 25388.1
+ConnectID: 16 hasMe: 0 p: 0.00579911 lp: 53076.9
+Time: 18539
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.826998 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.82781 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.783285 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 25388.1
+ConnectID: 16 hasMe: 0 p: 0.00579911 lp: 53076.9
+LastRecv: 15 5 
+Time: 18539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.835648 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.836419 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.744121 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0 lp: 22849.2
+ConnectID: 16 hasMe: 0 p: 0.00550916 lp: 47769.2
+Time: 18789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.835648 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.836419 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.744121 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 22849.2
+ConnectID: 16 hasMe: 0 p: 0.00550916 lp: 47769.2
+LastRecv: 15 5 11 
+Time: 18789
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.843866 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.844598 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.706915 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0 lp: 20564.3
+ConnectID: 16 hasMe: 0 p: 0.0052337 lp: 42992.3
+Time: 19039
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.843866 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.844598 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.706915 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 20564.3
+ConnectID: 16 hasMe: 0 p: 0.0052337 lp: 42992.3
+LastRecv: 15 5 11 
+Time: 19039
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.851673 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.852368 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.671569 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0 lp: 18507.9
+ConnectID: 16 hasMe: 0 p: 0.00497201 lp: 38693
+Time: 19289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.851673 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.852368 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.671569 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 18507.9
+ConnectID: 16 hasMe: 0 p: 0.00497201 lp: 38693
+LastRecv: 15 5 11 
+Time: 19289
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.859089 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.85975 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.687991 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 16657.1
+ConnectID: 16 hasMe: 0 p: 0.00472341 lp: 34823.7
+Time: 19539
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.859089 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.85975 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.687991 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 16657.1
+ConnectID: 16 hasMe: 0 p: 0.00472341 lp: 34823.7
+LastRecv: 5 11 
+Time: 19539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.816134 lp: 58976.1
+ConnectID: 5 hasMe: 0 p: 0.866763 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.703591 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 14991.4
+ConnectID: 16 hasMe: 0 p: 0.00448724 lp: 31341.4
+Time: 19789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.816134 lp: 65521
+ConnectID: 5 hasMe: 1 p: 0.866763 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.703591 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0 lp: 14991.4
+ConnectID: 16 hasMe: 0 p: 0.00448724 lp: 31341.4
+LastRecv: 15 5 
+Time: 19789
+SelfLP: 65527.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.825328 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.873424 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.668412 lp: 58972.5
+ConnectID: 6 hasMe: 0 p: 0 lp: 13492.3
+ConnectID: 16 hasMe: 0 p: 0.00426288 lp: 28207.2
+Time: 20039
+SelfLP: 65527.9
+CS
+ConnectID: 15 hasMe: 1 p: 0.825328 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.873424 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.668412 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 13492.3
+ConnectID: 16 hasMe: 0 p: 0.00426288 lp: 28207.2
+LastRecv: 15 5 11 
+Time: 20039
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.834061 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.879753 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.684991 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 12143
+ConnectID: 16 hasMe: 0 p: 0.00404974 lp: 25386.5
+Time: 20289
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.834061 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.879753 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.684991 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 12143
+ConnectID: 16 hasMe: 0 p: 0.00404974 lp: 25386.5
+LastRecv: 5 11 
+Time: 20289
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.792358 lp: 58972.5
+ConnectID: 5 hasMe: 0 p: 0.885766 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.700741 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 10928.7
+ConnectID: 16 hasMe: 0 p: 0.00384725 lp: 22847.9
+Time: 20539
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.792358 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.885766 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.700741 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 10928.7
+ConnectID: 16 hasMe: 0 p: 0.00384725 lp: 22847.9
+LastRecv: 15 5 
+Time: 20539
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.75274 lp: 58972.5
+ConnectID: 5 hasMe: 0 p: 0.891477 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.665704 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0 lp: 9835.85
+ConnectID: 16 hasMe: 0 p: 0.00365489 lp: 20563.1
+Time: 20789
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 1 p: 0.75274 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.891477 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.665704 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 9835.85
+ConnectID: 16 hasMe: 0 p: 0.00365489 lp: 20563.1
+LastRecv: 15 5 11 
+Time: 20789
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 0 p: 0.765103 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.896903 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.682419 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0 lp: 8852.27
+ConnectID: 16 hasMe: 0 p: 0.00347214 lp: 18506.8
+Time: 21039
+SelfLP: 65531.9
+CS
+ConnectID: 15 hasMe: 1 p: 0.765103 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.896903 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.682419 lp: 65529
+ConnectID: 6 hasMe: 1 p: 0 lp: 65527
+ConnectID: 16 hasMe: 0 p: 0.00347214 lp: 18506.8
+LastRecv: 15 11 6 
+Time: 21039
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.776848 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.852058 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.698298 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.05 lp: 65527
+ConnectID: 16 hasMe: 0 p: 0.00329853 lp: 16656.1
+Time: 21289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.776848 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.852058 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.698298 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.05 lp: 65527
+ConnectID: 16 hasMe: 0 p: 0.00329853 lp: 16656.1
+LastRecv: 15 5 11 
+Time: 21289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.788006 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.809455 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.663383 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0.0475 lp: 58974.3
+ConnectID: 16 hasMe: 0 p: 0.00313361 lp: 14990.5
+Time: 21539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.788006 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.809455 lp: 65525
+ConnectID: 11 hasMe: 1 p: 0.663383 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0475 lp: 58974.3
+ConnectID: 16 hasMe: 0 p: 0.00313361 lp: 14990.5
+LastRecv: 15 5 11 
+Time: 21539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.798605 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.768983 lp: 58972.5
+ConnectID: 11 hasMe: 0 p: 0.680214 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.045125 lp: 53076.9
+ConnectID: 16 hasMe: 0 p: 0.00297693 lp: 13491.4
+Time: 21789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.798605 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.768983 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.680214 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.045125 lp: 53076.9
+ConnectID: 16 hasMe: 0 p: 0.00297693 lp: 13491.4
+LastRecv: 15 5 11 
+Time: 21789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.808675 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.780533 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.696203 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0428688 lp: 47769.2
+ConnectID: 16 hasMe: 0 p: 0.00282808 lp: 12142.3
+Time: 22039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.808675 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.780533 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.696203 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0428688 lp: 47769.2
+ConnectID: 16 hasMe: 0 p: 0.00282808 lp: 65523
+LastRecv: 15 16 5 11 
+Time: 22039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.818241 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.791507 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.711393 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0407253 lp: 42992.3
+ConnectID: 16 hasMe: 0 p: 0.00268668 lp: 58970.7
+Time: 22289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.818241 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.791507 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.711393 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0407253 lp: 42992.3
+ConnectID: 16 hasMe: 0 p: 0.00268668 lp: 58970.7
+LastRecv: 15 5 11 
+Time: 22289
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.827329 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.801931 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.725824 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.038689 lp: 38693
+ConnectID: 16 hasMe: 0 p: 0.00255234 lp: 53073.6
+Time: 22539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.827329 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.801931 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.725824 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.038689 lp: 38693
+ConnectID: 16 hasMe: 0 p: 0.00255234 lp: 53073.6
+LastRecv: 5 11 
+Time: 22539
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.785963 lp: 58972.5
+ConnectID: 5 hasMe: 0 p: 0.811835 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.739532 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0367546 lp: 34823.7
+ConnectID: 16 hasMe: 0 p: 0.00242473 lp: 47766.3
+Time: 22789
+SelfLP: 65531.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.785963 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.811835 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.739532 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0367546 lp: 34823.7
+ConnectID: 16 hasMe: 0 p: 0.00242473 lp: 47766.3
+LastRecv: 15 5 11 
+Time: 22789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.796665 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.771243 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.752556 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0349169 lp: 31341.4
+ConnectID: 16 hasMe: 0 p: 0.00230349 lp: 42989.6
+Time: 23039
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.796665 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.771243 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.752556 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0349169 lp: 31341.4
+ConnectID: 16 hasMe: 0 p: 0.00230349 lp: 42989.6
+LastRecv: 5 11 
+Time: 23039
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.756832 lp: 58976.1
+ConnectID: 5 hasMe: 0 p: 0.732681 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.764928 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.033171 lp: 28207.2
+ConnectID: 16 hasMe: 0 p: 0.00218832 lp: 38690.7
+Time: 23289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.756832 lp: 58976.1
+ConnectID: 5 hasMe: 1 p: 0.732681 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.764928 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.033171 lp: 28207.2
+ConnectID: 16 hasMe: 0 p: 0.00218832 lp: 38690.7
+LastRecv: 5 
+Time: 23289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.71899 lp: 53078.5
+ConnectID: 5 hasMe: 0 p: 0.746047 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.726682 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0.0315125 lp: 25386.5
+ConnectID: 16 hasMe: 0 p: 0.0020789 lp: 34821.6
+Time: 23539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.71899 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.746047 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.726682 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0315125 lp: 25386.5
+ConnectID: 16 hasMe: 0 p: 0.0020789 lp: 34821.6
+LastRecv: 15 5 11 
+Time: 23539
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.73304 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.758745 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.740348 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0299368 lp: 22847.9
+ConnectID: 16 hasMe: 0 p: 0.00197495 lp: 31339.4
+Time: 23789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.73304 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.758745 lp: 65529
+ConnectID: 11 hasMe: 1 p: 0.740348 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0299368 lp: 22847.9
+ConnectID: 16 hasMe: 0 p: 0.00197495 lp: 31339.4
+LastRecv: 15 5 11 
+Time: 23789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.696388 lp: 58972.5
+ConnectID: 5 hasMe: 0 p: 0.770807 lp: 65529
+ConnectID: 11 hasMe: 0 p: 0.75333 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.02844 lp: 20563.1
+ConnectID: 16 hasMe: 0 p: 0.00187621 lp: 28205.5
+Time: 24039
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.696388 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.770807 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.75333 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.02844 lp: 20563.1
+ConnectID: 16 hasMe: 0 p: 0.00187621 lp: 28205.5
+LastRecv: 15 5 11 
+Time: 24039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.711569 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.782267 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.765664 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.027018 lp: 18506.8
+ConnectID: 16 hasMe: 0 p: 0.0017824 lp: 25385
+Time: 24289
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.711569 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.782267 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.765664 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.027018 lp: 18506.8
+ConnectID: 16 hasMe: 0 p: 0.0017824 lp: 25385
+LastRecv: 15 11 
+Time: 24289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.725991 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.743154 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.77738 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0256671 lp: 16656.1
+ConnectID: 16 hasMe: 0 p: 0.00169328 lp: 22846.5
+Time: 24539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.725991 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.743154 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.77738 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0256671 lp: 16656.1
+ConnectID: 16 hasMe: 0 p: 0.00169328 lp: 22846.5
+LastRecv: 15 5 11 
+Time: 24539
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.739691 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.705996 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.788511 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0243837 lp: 14990.5
+ConnectID: 16 hasMe: 0 p: 0.00160861 lp: 20561.8
+Time: 24789
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.739691 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.705996 lp: 58980
+ConnectID: 11 hasMe: 0 p: 0.788511 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0243837 lp: 14990.5
+ConnectID: 16 hasMe: 0 p: 0.00160861 lp: 20561.8
+LastRecv: 15 5 11 
+Time: 24789
+SelfLP: 58974.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.702706 lp: 58976.1
+ConnectID: 5 hasMe: 0 p: 0.670696 lp: 53082
+ConnectID: 11 hasMe: 0 p: 0.749086 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0.0231646 lp: 13491.4
+ConnectID: 16 hasMe: 0 p: 0.00152818 lp: 18505.6
+Time: 25039
+SelfLP: 58974.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.702706 lp: 58976.1
+ConnectID: 5 hasMe: 1 p: 0.670696 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.749086 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0231646 lp: 65527
+ConnectID: 16 hasMe: 0 p: 0.00152818 lp: 65527
+LastRecv: 16 5 11 6 
+Time: 25039
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.667571 lp: 53078.5
+ConnectID: 5 hasMe: 0 p: 0.687161 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.761632 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0220063 lp: 58974.3
+ConnectID: 16 hasMe: 0 p: 0.00145177 lp: 58974.3
+Time: 25289
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.667571 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.687161 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.761632 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0220063 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.00145177 lp: 65527
+LastRecv: 15 16 5 11 6 
+Time: 25289
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.634193 lp: 58972.5
+ConnectID: 5 hasMe: 0 p: 0.702803 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.77355 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.020906 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.00137918 lp: 58974.3
+Time: 25539
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.634193 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.702803 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.77355 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.020906 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.00137918 lp: 58974.3
+LastRecv: 15 5 11 6 
+Time: 25539
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.602483 lp: 58972.5
+ConnectID: 5 hasMe: 0 p: 0.717663 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.784872 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0198607 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.00131023 lp: 53076.9
+Time: 25789
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.602483 lp: 58972.5
+ConnectID: 5 hasMe: 1 p: 0.717663 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.784872 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0198607 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.00131023 lp: 53076.9
+LastRecv: 5 11 
+Time: 25789
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.572359 lp: 53075.2
+ConnectID: 5 hasMe: 0 p: 0.73178 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.795629 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0188677 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0.00124471 lp: 47769.2
+Time: 26039
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.572359 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.73178 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.795629 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0188677 lp: 65531
+ConnectID: 16 hasMe: 0 p: 0.00124471 lp: 47769.2
+LastRecv: 15 5 6 
+Time: 26039
+SelfLP: 65527.3
+CS
+ConnectID: 15 hasMe: 0 p: 0.593741 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.695191 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.755847 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0.0179243 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.00118248 lp: 42992.3
+Time: 26289
+SelfLP: 65527.3
+CS
+ConnectID: 15 hasMe: 1 p: 0.593741 lp: 65521
+ConnectID: 5 hasMe: 1 p: 0.695191 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.755847 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0.0179243 lp: 58977.9
+ConnectID: 16 hasMe: 0 p: 0.00118248 lp: 42992.3
+LastRecv: 15 5 
+Time: 26289
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.614054 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.710431 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.718055 lp: 53078.5
+ConnectID: 6 hasMe: 0 p: 0.0170281 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0.00112335 lp: 38693
+Time: 26539
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.614054 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.710431 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.718055 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0170281 lp: 53080.1
+ConnectID: 16 hasMe: 0 p: 0.00112335 lp: 38693
+LastRecv: 15 5 11 
+Time: 26539
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.633351 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.72491 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.732152 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0161767 lp: 47772.1
+ConnectID: 16 hasMe: 0 p: 0.00106719 lp: 34823.7
+Time: 26789
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.633351 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.72491 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.732152 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0161767 lp: 47772.1
+ConnectID: 16 hasMe: 0 p: 0.00106719 lp: 65527
+LastRecv: 15 16 11 
+Time: 26789
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.651684 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.688664 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.745545 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0153678 lp: 42994.9
+ConnectID: 16 hasMe: 0 p: 0.00101383 lp: 58974.3
+Time: 27039
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.651684 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.688664 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.745545 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0153678 lp: 42994.9
+ConnectID: 16 hasMe: 0 p: 0.00101383 lp: 58974.3
+LastRecv: 15 5 11 
+Time: 27039
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.669099 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.704231 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.758267 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0145995 lp: 38695.4
+ConnectID: 16 hasMe: 0 p: 0.000963136 lp: 53076.9
+Time: 27289
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.669099 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.704231 lp: 58980
+ConnectID: 11 hasMe: 0 p: 0.758267 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0145995 lp: 38695.4
+ConnectID: 16 hasMe: 0 p: 0.000963136 lp: 53076.9
+LastRecv: 15 5 11 
+Time: 27289
+SelfLP: 65527.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.685644 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.71902 lp: 58980
+ConnectID: 11 hasMe: 0 p: 0.720354 lp: 58976.1
+ConnectID: 6 hasMe: 0 p: 0.0138695 lp: 34825.9
+ConnectID: 16 hasMe: 0 p: 0.000914979 lp: 47769.2
+Time: 27539
+SelfLP: 65527.5
+CS
+ConnectID: 15 hasMe: 1 p: 0.685644 lp: 65521
+ConnectID: 5 hasMe: 1 p: 0.71902 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.720354 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0138695 lp: 34825.9
+ConnectID: 16 hasMe: 0 p: 0.000914979 lp: 47769.2
+LastRecv: 15 5 11 
+Time: 27539
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.701362 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.733069 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.734336 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.013176 lp: 31343.3
+ConnectID: 16 hasMe: 0 p: 0.00086923 lp: 42992.3
+Time: 27789
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 1 p: 0.701362 lp: 65529
+ConnectID: 5 hasMe: 1 p: 0.733069 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.734336 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.013176 lp: 31343.3
+ConnectID: 16 hasMe: 0 p: 0.00086923 lp: 42992.3
+LastRecv: 15 5 11 
+Time: 27789
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.716294 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.746415 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.74762 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0125172 lp: 28208.9
+ConnectID: 16 hasMe: 0 p: 0.000825769 lp: 38693
+Time: 28039
+SelfLP: 65531.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.716294 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.746415 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.74762 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0125172 lp: 28208.9
+ConnectID: 16 hasMe: 0 p: 0.000825769 lp: 65527
+LastRecv: 16 5 11 
+Time: 28039
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.680479 lp: 58976.1
+ConnectID: 5 hasMe: 0 p: 0.709094 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.760239 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0118913 lp: 25388.1
+ConnectID: 16 hasMe: 0 p: 0.00078448 lp: 58974.3
+Time: 28289
+SelfLP: 65523.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.680479 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.709094 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.760239 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0118913 lp: 25388.1
+ConnectID: 16 hasMe: 0 p: 0.00078448 lp: 58974.3
+LastRecv: 15 5 11 
+Time: 28289
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.696455 lp: 65529
+ConnectID: 5 hasMe: 0 p: 0.67364 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.772227 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0112968 lp: 22849.2
+ConnectID: 16 hasMe: 0 p: 0.000745256 lp: 53076.9
+Time: 28539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.696455 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.67364 lp: 58980
+ConnectID: 11 hasMe: 1 p: 0.772227 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0112968 lp: 22849.2
+ConnectID: 16 hasMe: 0 p: 0.000745256 lp: 53076.9
+LastRecv: 15 5 11 
+Time: 28539
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 0 p: 0.711633 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.689958 lp: 58980
+ConnectID: 11 hasMe: 0 p: 0.783615 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0107319 lp: 20564.3
+ConnectID: 16 hasMe: 0 p: 0.000707993 lp: 47769.2
+Time: 28789
+SelfLP: 65527.7
+CS
+ConnectID: 15 hasMe: 1 p: 0.711633 lp: 65521
+ConnectID: 5 hasMe: 1 p: 0.689958 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.783615 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0107319 lp: 20564.3
+ConnectID: 16 hasMe: 0 p: 0.000707993 lp: 47769.2
+LastRecv: 15 5 11 
+Time: 28789
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.726051 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.70546 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.794435 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.0101953 lp: 18507.9
+ConnectID: 16 hasMe: 0 p: 0.000672594 lp: 42992.3
+Time: 29039
+SelfLP: 65531.6
+CS
+ConnectID: 15 hasMe: 0 p: 0.726051 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.70546 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.794435 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0101953 lp: 18507.9
+ConnectID: 16 hasMe: 0 p: 0.000672594 lp: 42992.3
+LastRecv: 11 
+Time: 29039
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.689748 lp: 58968.9
+ConnectID: 5 hasMe: 0 p: 0.670187 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.804713 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.00968557 lp: 16657.1
+ConnectID: 16 hasMe: 0 p: 0.000638964 lp: 38693
+Time: 29289
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.689748 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.670187 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.804713 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.00968557 lp: 16657.1
+ConnectID: 16 hasMe: 0 p: 0.000638964 lp: 38693
+LastRecv: 15 5 11 
+Time: 29289
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.705261 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.686677 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.814477 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0092013 lp: 14991.4
+ConnectID: 16 hasMe: 0 p: 0.000607016 lp: 34823.7
+Time: 29539
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 1 p: 0.705261 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.686677 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.814477 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.0092013 lp: 14991.4
+ConnectID: 16 hasMe: 0 p: 0.000607016 lp: 34823.7
+LastRecv: 15 11 
+Time: 29539
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 0 p: 0.719998 lp: 65521
+ConnectID: 5 hasMe: 0 p: 0.652344 lp: 58979.7
+ConnectID: 11 hasMe: 0 p: 0.823753 lp: 65529
+ConnectID: 6 hasMe: 0 p: 0.00874123 lp: 13492.3
+ConnectID: 16 hasMe: 0 p: 0.000576665 lp: 31341.4
+Time: 29789
+SelfLP: 65527.8
+CS
+ConnectID: 15 hasMe: 1 p: 0.719998 lp: 65525
+ConnectID: 5 hasMe: 1 p: 0.652344 lp: 65533
+ConnectID: 11 hasMe: 1 p: 0.823753 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.00874123 lp: 13492.3
+ConnectID: 16 hasMe: 0 p: 0.000576665 lp: 31341.4
+LastRecv: 15 5 11 
+Time: 29789
+SelfLP: 65531.5
+CS
+ConnectID: 15 hasMe: 0 p: 0.733998 lp: 65525
+ConnectID: 5 hasMe: 0 p: 0.669726 lp: 65533
+ConnectID: 11 hasMe: 0 p: 0.832566 lp: 65525
+ConnectID: 6 hasMe: 0 p: 0.00830417 lp: 12143
+ConnectID: 16 hasMe: 0 p: 0.000547832 lp: 28207.2

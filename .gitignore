@@ -1,0 +1,8 @@
+build/
+*.pcap
+*.pyc
+*.py
+!autoRun.py
+*.rst
+doc/
+examples/

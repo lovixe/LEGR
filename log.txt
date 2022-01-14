@@ -1,0 +1,50 @@
+Waf: Entering directory `/home/x/Documents/DG/ns-3.29/build'
+Waf: Leaving directory `/home/x/Documents/DG/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.728s)
+链路初始化完成
+Creating 2 nodes 50 m apart.
+Starting simulation for 20 s ...
+The simulation is now at: 1 seconds
+The sumption is : 0.00573258
+The simulation is now at: 2 seconds
+The sumption is : 0.0114755
+The simulation is now at: 3 seconds
+The sumption is : 0.0172184
+The simulation is now at: 4 seconds
+The sumption is : 0.0229613
+The simulation is now at: 5 seconds
+The sumption is : 0.0287042
+The simulation is now at: 6 seconds
+The sumption is : 0.0344471
+The simulation is now at: 7 seconds
+The sumption is : 0.0401899
+The simulation is now at: 8 seconds
+The sumption is : 0.0459328
+The simulation is now at: 9 seconds
+The sumption is : 0.0516757
+The simulation is now at: 10 seconds
+The sumption is : 0.0574186
+The simulation is now at: 11 seconds
+The sumption is : 0.0631615
+The simulation is now at: 12 seconds
+The sumption is : 0.0689044
+The simulation is now at: 13 seconds
+The sumption is : 0.0746473
+The simulation is now at: 14 seconds
+The sumption is : 0.0803902
+The simulation is now at: 15 seconds
+The sumption is : 0.0861331
+The simulation is now at: 16 seconds
+The sumption is : 0.091876
+The simulation is now at: 17 seconds
+The sumption is : 0.0976189
+The simulation is now at: 18 seconds
+The sumption is : 0.103362
+The simulation is now at: 19 seconds
+The sumption is : 0.109105
+1 To 0
+The simulation is now at: 20 seconds
+The sumption is : 0.115955
+Output operation successfully performed1
+Output operation successfully performed2

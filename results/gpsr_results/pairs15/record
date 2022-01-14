@@ -1,0 +1,11 @@
+Seed	LostPackets	totalTx	totalRx	PDR (%)	HopCount	Delay (ms)	PhyRxDrop	PhyTxDrop
+974	    10	        506	    400	    79.05	1.03	    148.83	    4464	    0
+
+Seed	LostPackets	totalTx	totalRx	PDR (%)	HopCount	Delay (ms)	PhyRxDrop	PhyTxDrop
+974	    8	        625	    500	    80.00	1.02	    128.82	    4909	    0
+
+Seed	LostPackets	totalTx	totalRx	PDR (%)	HopCount	Delay (ms)	PhyRxDrop	PhyTxDrop
+974	    5	        515	    483	    93.79	1.02	    274.19	    5390	    0
+
+Seed	LostPackets	totalTx	totalRx	PDR (%)	HopCount	Delay (ms)	PhyRxDrop	PhyTxDrop
+974	0	98	3	3.06	21.00	1510.77	32720	0
