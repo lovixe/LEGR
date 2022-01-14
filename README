@@ -115,3 +115,6 @@ familiar with it.
 If you have successfully installed mercurial, you can get
 a copy of the development version with the following command:
 "hg clone http://code.nsnam.org/ns-3-dev"
+
+6) Routing method LEGR
+This is the simulation code of Legr. The model based on GPSR is modified.
